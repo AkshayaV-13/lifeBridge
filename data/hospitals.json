@@ -1,0 +1,421 @@
+[
+  {
+    "hospital_id": "HOSP-BMCRI-VIC",
+    "hospital_name": "Victoria Hospital (BMCRI)",
+    "hospital_type": "Government Tertiary Teaching Hospital",
+    "city": "Bengaluru",
+    "district": "Bengaluru Urban",
+    "state": "Karnataka",
+    "address": "Fort Road, near KR Market, Kalasipalya, Bengaluru, Karnataka 560002",
+    "specialties": [
+      "General Surgery",
+      "Emergency & Trauma",
+      "Orthopedics",
+      "Nephrology",
+      "General Medicine",
+      "Plastic & Burn Surgery"
+    ],
+    "treatments": [
+      "Trauma Surgery",
+      "Emergency Resuscitation",
+      "Hemodialysis",
+      "General Surgical Procedures",
+      "Burn Care",
+      "Intensive Care Unit (ICU)"
+    ],
+    "participating_schemes": [
+      "SCHEME-AB-PMJAY",
+      "SCHEME-AB-ARK",
+      "SCHEME-RAN",
+      "SCHEME-HMDG",
+      "SCHEME-CMRF-KA",
+      "SCHEME-PMNDP"
+    ],
+    "latitude": 12.9634,
+    "longitude": 77.5753,
+    "official_contact": "080-26701150 / 080-26705353",
+    "official_website": "https://bmcri.edu.in",
+    "source_urls": [
+      "https://bmcri.edu.in/victoria-hospital.html",
+      "https://arogya.karnataka.gov.in"
+    ],
+    "location_verification_status": "VERIFIED",
+    "treatment_verification_status": "VERIFIED",
+    "scheme_participation_verification_status": "VERIFIED",
+    "last_verified_date": "2026-02-20"
+  },
+  {
+    "hospital_id": "HOSP-KMIO",
+    "hospital_name": "Kidwai Memorial Institute of Oncology (KMIO)",
+    "hospital_type": "Autonomous Government Regional Cancer Centre",
+    "city": "Bengaluru",
+    "district": "Bengaluru Urban",
+    "state": "Karnataka",
+    "address": "Dr. M.H. Marigowda Road, near Dairy Circle, Bengaluru, Karnataka 560029",
+    "specialties": [
+      "Oncology",
+      "Surgical Oncology",
+      "Medical Oncology",
+      "Radiation Oncology",
+      "Pediatric Oncology",
+      "Palliative Medicine"
+    ],
+    "treatments": [
+      "Chemotherapy",
+      "Radiation Therapy (Linear Accelerator)",
+      "Tumor Resection Surgeries",
+      "Bone Marrow Biopsy & Transplant",
+      "Cancer Pain & Palliative Management"
+    ],
+    "participating_schemes": [
+      "SCHEME-AB-PMJAY",
+      "SCHEME-AB-ARK",
+      "SCHEME-RAN",
+      "SCHEME-HMDG",
+      "SCHEME-CMRF-KA"
+    ],
+    "latitude": 12.9377,
+    "longitude": 77.5956,
+    "official_contact": "080-26094000 / 080-26560703",
+    "official_website": "https://kidwai.karnataka.gov.in",
+    "source_urls": [
+      "https://kidwai.karnataka.gov.in",
+      "https://sast.karnataka.gov.in"
+    ],
+    "location_verification_status": "VERIFIED",
+    "treatment_verification_status": "VERIFIED",
+    "scheme_participation_verification_status": "VERIFIED",
+    "last_verified_date": "2026-02-22"
+  },
+  {
+    "hospital_id": "HOSP-SJICR",
+    "hospital_name": "Sri Jayadeva Institute of Cardiovascular Sciences and Research",
+    "hospital_type": "Autonomous Government Cardiac Super-Specialty Institute",
+    "city": "Bengaluru",
+    "district": "Bengaluru Urban",
+    "state": "Karnataka",
+    "address": "Bannerghatta Road, 9th Block, Jayanagar, Bengaluru, Karnataka 560069",
+    "specialties": [
+      "Cardiology",
+      "Cardiothoracic Surgery",
+      "Pediatric Cardiology",
+      "Cardiac Electrophysiology",
+      "Interventional Cardiology"
+    ],
+    "treatments": [
+      "Coronary Angiography & Angioplasty (PTCA)",
+      "Coronary Artery Bypass Graft (CABG)",
+      "Heart Valve Replacement & Repair",
+      "Pacemaker & ICD Implantation",
+      "Pediatric Congenital Heart Defect Surgery"
+    ],
+    "participating_schemes": [
+      "SCHEME-AB-PMJAY",
+      "SCHEME-AB-ARK",
+      "SCHEME-CMRF-KA",
+      "SCHEME-YESHASVINI",
+      "SCHEME-HMDG"
+    ],
+    "latitude": 12.9180,
+    "longitude": 77.5976,
+    "official_contact": "080-22977400 / 080-22977200",
+    "official_website": "https://jayadevacardiology.com",
+    "source_urls": [
+      "https://jayadevacardiology.com",
+      "https://sast.karnataka.gov.in"
+    ],
+    "location_verification_status": "VERIFIED",
+    "treatment_verification_status": "VERIFIED",
+    "scheme_participation_verification_status": "VERIFIED",
+    "last_verified_date": "2026-02-18"
+  },
+  {
+    "hospital_id": "HOSP-NIMHANS",
+    "hospital_name": "National Institute of Mental Health and Neurosciences (NIMHANS)",
+    "hospital_type": "Central Autonomous Apex Institute of National Importance",
+    "city": "Bengaluru",
+    "district": "Bengaluru Urban",
+    "state": "Karnataka",
+    "address": "Hosur Road, Lakkasandra, Wilson Garden, Bengaluru, Karnataka 560029",
+    "specialties": [
+      "Neurology",
+      "Neurosurgery",
+      "Rare Diseases Centre of Excellence",
+      "Psychiatry",
+      "Neuropathology",
+      "Neuro-rehabilitation"
+    ],
+    "treatments": [
+      "Brain Tumor & Skull Base Surgery",
+      "Spinal Cord Decompression",
+      "Rare Neurological Disorder Evaluation",
+      "Epilepsy Surgery & EEG Monitoring",
+      "Acute Stroke Thrombectomy",
+      "NPRD Designated Rare Disease Therapy"
+    ],
+    "participating_schemes": [
+      "SCHEME-NPRD",
+      "SCHEME-RAN",
+      "SCHEME-HMDG",
+      "SCHEME-AB-PMJAY",
+      "SCHEME-AB-ARK"
+    ],
+    "latitude": 12.9392,
+    "longitude": 77.5970,
+    "official_contact": "080-26995000 / 080-26995112",
+    "official_website": "https://nimhans.ac.in",
+    "source_urls": [
+      "https://nimhans.ac.in",
+      "https://rarediseases.mohfw.gov.in"
+    ],
+    "location_verification_status": "VERIFIED",
+    "treatment_verification_status": "VERIFIED",
+    "scheme_participation_verification_status": "VERIFIED",
+    "last_verified_date": "2026-02-10"
+  },
+  {
+    "hospital_id": "HOSP-IGICH",
+    "hospital_name": "Indira Gandhi Institute of Child Health (IGICH)",
+    "hospital_type": "Autonomous Government Apex Pediatric Institute",
+    "city": "Bengaluru",
+    "district": "Bengaluru Urban",
+    "state": "Karnataka",
+    "address": "South Hospital Complex, Dharmaram College Post, Bengaluru, Karnataka 560029",
+    "specialties": [
+      "Pediatrics",
+      "Pediatric Surgery",
+      "Rare Diseases Centre of Excellence",
+      "Pediatric Nephrology",
+      "Neonatology"
+    ],
+    "treatments": [
+      "NPRD Rare Pediatric Genetic Therapies",
+      "Pediatric Peritoneal Dialysis & Hemodialysis",
+      "Congenital Anomaly Surgical Reconstruction",
+      "Neonatal Intensive Care (NICU Level III)",
+      "Pediatric Bone Marrow Evaluation"
+    ],
+    "participating_schemes": [
+      "SCHEME-NPRD",
+      "SCHEME-AB-ARK",
+      "SCHEME-AB-PMJAY",
+      "SCHEME-JSSK",
+      "SCHEME-CMRF-KA"
+    ],
+    "latitude": 12.9373,
+    "longitude": 77.5962,
+    "official_contact": "080-26099888 / 080-26099800",
+    "official_website": "https://igich.karnataka.gov.in",
+    "source_urls": [
+      "https://igich.karnataka.gov.in",
+      "https://rarediseases.mohfw.gov.in"
+    ],
+    "location_verification_status": "VERIFIED",
+    "treatment_verification_status": "VERIFIED",
+    "scheme_participation_verification_status": "VERIFIED",
+    "last_verified_date": "2026-02-15"
+  },
+  {
+    "hospital_id": "HOSP-BOWRING",
+    "hospital_name": "Bowring and Lady Curzon Hospital (BMCRI Annex)",
+    "hospital_type": "Government Multi-Specialty Hospital",
+    "city": "Bengaluru",
+    "district": "Bengaluru Urban",
+    "state": "Karnataka",
+    "address": "Lady Curzon Road, Tasker Town, Shivaji Nagar, Bengaluru, Karnataka 560001",
+    "specialties": [
+      "General Medicine",
+      "Obstetrics & Gynecology",
+      "Nephrology",
+      "Pulmonology & TB Unit",
+      "General Surgery"
+    ],
+    "treatments": [
+      "Maintenance Hemodialysis (PMNDP Unit)",
+      "Free Institutional Delivery & C-Section (JSSK)",
+      "DOTS Tuberculosis Centre (Nikshay linked)",
+      "General Inpatient Medical Care",
+      "Routine General Surgery"
+    ],
+    "participating_schemes": [
+      "SCHEME-AB-ARK",
+      "SCHEME-AB-PMJAY",
+      "SCHEME-PMNDP",
+      "SCHEME-JSSK",
+      "SCHEME-NPY"
+    ],
+    "latitude": 12.9835,
+    "longitude": 77.6048,
+    "official_contact": "080-25591325 / 080-25591362",
+    "official_website": "https://bmcri.edu.in",
+    "source_urls": [
+      "https://bmcri.edu.in",
+      "https://pmndp.mohfw.gov.in"
+    ],
+    "location_verification_status": "VERIFIED",
+    "treatment_verification_status": "VERIFIED",
+    "scheme_participation_verification_status": "VERIFIED",
+    "last_verified_date": "2026-02-19"
+  },
+  {
+    "hospital_id": "HOSP-KC-GEN",
+    "hospital_name": "KC General Hospital",
+    "hospital_type": "Government District Hospital",
+    "city": "Bengaluru",
+    "district": "Bengaluru Urban",
+    "state": "Karnataka",
+    "address": "5th Cross Road, Malleshwaram, Bengaluru, Karnataka 560003",
+    "specialties": [
+      "General Medicine",
+      "Obstetrics & Gynecology",
+      "Nephrology",
+      "Orthopedics",
+      "Pediatrics"
+    ],
+    "treatments": [
+      "Free Maintenance Hemodialysis (PMNDP)",
+      "Institutional Maternal Delivery (JSSK)",
+      "Emergency Trauma Stabilization",
+      "General Laparoscopic Surgeries",
+      "Pediatric Inpatient Care"
+    ],
+    "participating_schemes": [
+      "SCHEME-PMNDP",
+      "SCHEME-JSSK",
+      "SCHEME-AB-ARK",
+      "SCHEME-AB-PMJAY"
+    ],
+    "latitude": 12.9998,
+    "longitude": 77.5707,
+    "official_contact": "080-23341771 / 080-23340578",
+    "official_website": "https://karnataka.gov.in",
+    "source_urls": [
+      "https://karnataka.gov.in",
+      "https://pmndp.mohfw.gov.in"
+    ],
+    "location_verification_status": "VERIFIED",
+    "treatment_verification_status": "VERIFIED",
+    "scheme_participation_verification_status": "VERIFIED",
+    "last_verified_date": "2026-02-16"
+  },
+  {
+    "hospital_id": "HOSP-VANIVILAS",
+    "hospital_name": "Vani Vilas Hospital (BMCRI)",
+    "hospital_type": "Government Apex Women and Children Hospital",
+    "city": "Bengaluru",
+    "district": "Bengaluru Urban",
+    "state": "Karnataka",
+    "address": "Fort Road, Kalasipalya, Bengaluru, Karnataka 560002",
+    "specialties": [
+      "Obstetrics & Gynecology",
+      "High-Risk Obstetrics",
+      "Neonatology",
+      "Pediatrics",
+      "Gynecological Oncology"
+    ],
+    "treatments": [
+      "Completely Free Normal Delivery & Cesarean Section (JSSK)",
+      "Special Newborn Care Unit (SNCU) & NICU",
+      "High-Risk Maternal Complications Care",
+      "Pediatric Infectious Diseases Treatment",
+      "Gynecological Surgeries"
+    ],
+    "participating_schemes": [
+      "SCHEME-JSSK",
+      "SCHEME-AB-ARK",
+      "SCHEME-AB-PMJAY"
+    ],
+    "latitude": 12.9619,
+    "longitude": 77.5759,
+    "official_contact": "080-26705847 / 080-26701150",
+    "official_website": "https://bmcri.edu.in",
+    "source_urls": [
+      "https://bmcri.edu.in/vani-vilas-hospital.html",
+      "https://nhm.gov.in"
+    ],
+    "location_verification_status": "VERIFIED",
+    "treatment_verification_status": "VERIFIED",
+    "scheme_participation_verification_status": "VERIFIED",
+    "last_verified_date": "2026-02-14"
+  },
+  {
+    "hospital_id": "HOSP-MANIPAL-HAL",
+    "hospital_name": "Manipal Hospital (HAL Airport Road)",
+    "hospital_type": "Empaneled Private Tertiary Quaternary Hospital",
+    "city": "Bengaluru",
+    "district": "Bengaluru Urban",
+    "state": "Karnataka",
+    "address": "98, HAL Old Airport Road, Kodihalli, Bengaluru, Karnataka 560017",
+    "specialties": [
+      "Oncology",
+      "Cardiology & Cardiac Surgery",
+      "Organ Transplantation",
+      "Nephrology",
+      "Neurosurgery"
+    ],
+    "treatments": [
+      "Complex Surgical Oncology",
+      "Coronary Artery Bypass Surgery",
+      "Renal & Liver Transplantation",
+      "Advanced Chemotherapy & Immunotherapy",
+      "Critical Care Medicine"
+    ],
+    "participating_schemes": [
+      "SCHEME-AB-ARK",
+      "SCHEME-AB-PMJAY"
+    ],
+    "latitude": 12.9587,
+    "longitude": 77.6496,
+    "official_contact": "080-25024444 / 1800-102-5555",
+    "official_website": "https://www.manipalhospitals.com/oldairportroad",
+    "source_urls": [
+      "https://www.manipalhospitals.com",
+      "https://sast.karnataka.gov.in"
+    ],
+    "location_verification_status": "VERIFIED",
+    "treatment_verification_status": "VERIFIED",
+    "scheme_participation_verification_status": "VERIFIED",
+    "last_verified_date": "2026-02-28"
+  },
+  {
+    "hospital_id": "HOSP-NARAYANA-CITY",
+    "hospital_name": "Narayana Institute of Cardiac Sciences (Narayana Health City)",
+    "hospital_type": "Empaneled Private Super-Specialty Hospital",
+    "city": "Bengaluru",
+    "district": "Bengaluru Urban",
+    "state": "Karnataka",
+    "address": "258/A, Bommasandra Industrial Area, Anekal Taluk, Bengaluru, Karnataka 560099",
+    "specialties": [
+      "Cardiology",
+      "Cardiothoracic Surgery",
+      "Pediatric Cardiac Surgery",
+      "Oncology",
+      "Vascular Surgery"
+    ],
+    "treatments": [
+      "Pediatric Congenital Cardiac Corrections",
+      "Adult Minimally Invasive Bypass Surgery",
+      "Complex Heart Valve Interventions",
+      "Chemotherapy & Surgical Oncology",
+      "Electrophysiology Ablation"
+    ],
+    "participating_schemes": [
+      "SCHEME-AB-ARK",
+      "SCHEME-AB-PMJAY",
+      "SCHEME-YESHASVINI"
+    ],
+    "latitude": 12.8123,
+    "longitude": 77.6896,
+    "official_contact": "080-71222222 / 1800-309-0309",
+    "official_website": "https://www.narayanahealth.org",
+    "source_urls": [
+      "https://www.narayanahealth.org",
+      "https://sast.karnataka.gov.in",
+      "https://yeshasvini.karnataka.gov.in"
+    ],
+    "location_verification_status": "VERIFIED",
+    "treatment_verification_status": "VERIFIED",
+    "scheme_participation_verification_status": "VERIFIED",
+    "last_verified_date": "2026-02-27"
+  }
+]

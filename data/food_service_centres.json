@@ -1,0 +1,192 @@
+[
+  {
+    "centre_id": "CENTRE-DC-FOOD-BLR",
+    "name": "Deputy Director Office, Food & Civil Supplies (Bengaluru Urban)",
+    "centre_type": "Government Office",
+    "district": "Bengaluru Urban",
+    "city": "Bengaluru",
+    "address": "Deputy Commissioner Office Compound, KG Road, near Mysore Bank Circle, Bengaluru, Karnataka 560009",
+    "services_offered": [
+      "Appellate Authority for Ration Cards",
+      "Grievance Redressal & Food Security Enforcement",
+      "Fair Price Shop License Supervision"
+    ],
+    "latitude": 12.9734,
+    "longitude": 77.5812,
+    "contact_phone": "080-22211106",
+    "official_portal": "https://ahara.kar.nic.in",
+    "verification_status": "VERIFIED",
+    "authorized_agency": "Government of Karnataka"
+  },
+  {
+    "centre_id": "CENTRE-TALUK-SOUTH",
+    "name": "Taluk Food Supply Office (Bengaluru South)",
+    "centre_type": "Government Office",
+    "district": "Bengaluru Urban",
+    "city": "Bengaluru",
+    "address": "Mini Vidhana Soudha, 4th Block, Jayanagar, Bengaluru, Karnataka 560011",
+    "services_offered": [
+      "New BPL / APL Ration Card Approval",
+      "Food Inspector Field Verification Reports",
+      "Member Addition / Deletion Endorsements"
+    ],
+    "latitude": 12.9298,
+    "longitude": 77.5833,
+    "contact_phone": "080-22440182",
+    "official_portal": "https://ahara.kar.nic.in",
+    "verification_status": "VERIFIED",
+    "authorized_agency": "Food, Civil Supplies & Consumer Affairs Dept"
+  },
+  {
+    "centre_id": "CENTRE-TALUK-NORTH",
+    "name": "Taluk Food Supply Office (Bengaluru North)",
+    "centre_type": "Government Office",
+    "district": "Bengaluru Urban",
+    "city": "Bengaluru",
+    "address": "Mini Vidhana Soudha, Yelahanka New Town, Bengaluru, Karnataka 560064",
+    "services_offered": [
+      "Ration Card Jurisdiction Processing",
+      "Food Inspector Verification",
+      "PDS Quota Allocation"
+    ],
+    "latitude": 13.1007,
+    "longitude": 77.5963,
+    "contact_phone": "080-28562214",
+    "official_portal": "https://ahara.kar.nic.in",
+    "verification_status": "VERIFIED",
+    "authorized_agency": "Food, Civil Supplies & Consumer Affairs Dept"
+  },
+  {
+    "centre_id": "CENTRE-TALUK-EAST",
+    "name": "Taluk Food Supply Office (Bengaluru East)",
+    "centre_type": "Government Office",
+    "district": "Bengaluru Urban",
+    "city": "Bengaluru",
+    "address": "Tahsildar Office Complex, Old Madras Road, KR Puram, Bengaluru, Karnataka 560036",
+    "services_offered": [
+      "Ration Card Surrender & Transfer Certificates",
+      "BPL Income Criteria Scrutiny",
+      "Fair Price Shop Dispute Resolution"
+    ],
+    "latitude": 13.0075,
+    "longitude": 77.7028,
+    "contact_phone": "080-25612345",
+    "official_portal": "https://ahara.kar.nic.in",
+    "verification_status": "VERIFIED",
+    "authorized_agency": "Food, Civil Supplies & Consumer Affairs Dept"
+  },
+  {
+    "centre_id": "CENTRE-B1-JAYANAGAR",
+    "name": "Bangalore One Citizen Service Centre (Jayanagar)",
+    "centre_type": "Officially Listed Service Centre",
+    "district": "Bengaluru Urban",
+    "city": "Bengaluru",
+    "address": "BDA Complex, 4th Block, Jayanagar, Bengaluru, Karnataka 560011",
+    "services_offered": [
+      "Online Ration Card Application Submission",
+      "Ration Card Member Modification & E-KYC",
+      "E-Ration Card Reprinting"
+    ],
+    "latitude": 12.9291,
+    "longitude": 77.5828,
+    "contact_phone": "080-22443456",
+    "official_portal": "https://karnatakaone.gov.in",
+    "verification_status": "VERIFIED",
+    "authorized_agency": "Directorate of Electronic Delivery of Citizen Services (EDCS)"
+  },
+  {
+    "centre_id": "CENTRE-B1-MALLESHWARAM",
+    "name": "Bangalore One Citizen Service Centre (Malleshwaram)",
+    "centre_type": "Officially Listed Service Centre",
+    "district": "Bengaluru Urban",
+    "city": "Bengaluru",
+    "address": "2nd Cross, Sampige Road, near Malleshwaram Circle, Bengaluru, Karnataka 560003",
+    "services_offered": [
+      "New Ration Card Online Entry",
+      "Aadhaar Seeding Assistance",
+      "Address Change Request Filing"
+    ],
+    "latitude": 12.9972,
+    "longitude": 77.5714,
+    "contact_phone": "080-23467812",
+    "official_portal": "https://karnatakaone.gov.in",
+    "verification_status": "VERIFIED",
+    "authorized_agency": "Directorate of Electronic Delivery of Citizen Services (EDCS)"
+  },
+  {
+    "centre_id": "CENTRE-B1-INDIRANAGAR",
+    "name": "Bangalore One Citizen Service Centre (Indiranagar)",
+    "centre_type": "Officially Listed Service Centre",
+    "district": "Bengaluru Urban",
+    "city": "Bengaluru",
+    "address": "100 Feet Road, HAL 2nd Stage, Indiranagar, Bengaluru, Karnataka 560038",
+    "services_offered": [
+      "Online Ration Card Application Assistance",
+      "Application Status Verification",
+      "Seva Sindhu Integrated Citizen Services"
+    ],
+    "latitude": 12.9784,
+    "longitude": 77.6408,
+    "contact_phone": "080-25219901",
+    "official_portal": "https://karnatakaone.gov.in",
+    "verification_status": "VERIFIED",
+    "authorized_agency": "Directorate of Electronic Delivery of Citizen Services (EDCS)"
+  },
+  {
+    "centre_id": "CENTRE-SS-SHIVAJINAGAR",
+    "name": "Seva Sindhu Citizen Service Centre (Shivajinagar)",
+    "centre_type": "Officially Listed Service Centre",
+    "district": "Bengaluru Urban",
+    "city": "Bengaluru",
+    "address": "Mehkri Square, Russell Market Area, Shivajinagar, Bengaluru, Karnataka 560051",
+    "services_offered": [
+      "BPL Ration Card Application Filing",
+      "Caste & Income Certificate RD Integration",
+      "Grievance Lodging"
+    ],
+    "latitude": 12.9856,
+    "longitude": 77.6063,
+    "contact_phone": "080-22867543",
+    "official_portal": "https://sevasindhu.karnataka.gov.in",
+    "verification_status": "VERIFIED",
+    "authorized_agency": "Government of Karnataka"
+  },
+  {
+    "centre_id": "CENTRE-FPS-142-BTM",
+    "name": "Authorized Fair Price Shop No. 142 (BTM Layout)",
+    "centre_type": "Fair Price Shop",
+    "district": "Bengaluru Urban",
+    "city": "Bengaluru",
+    "address": "7th Main Road, 2nd Stage, BTM Layout, Bengaluru, Karnataka 560076",
+    "services_offered": [
+      "Monthly Free Foodgrain Distribution (PMGKAY & Anna Bhagya)",
+      "ONORC Inter-State Ration Portability e-PoS Lifting",
+      "Biometric Aadhaar Authentication"
+    ],
+    "latitude": 12.9165,
+    "longitude": 77.6101,
+    "contact_phone": "080-26781290",
+    "official_portal": "https://ahara.kar.nic.in/status2/fps_details.aspx",
+    "verification_status": "VERIFIED",
+    "authorized_agency": "Department of Food & Civil Supplies Dealer License"
+  },
+  {
+    "centre_id": "CENTRE-FPS-88-RAJAJI",
+    "name": "Authorized Fair Price Shop No. 88 (Rajajinagar)",
+    "centre_type": "Fair Price Shop",
+    "district": "Bengaluru Urban",
+    "city": "Bengaluru",
+    "address": "10th Main Road, 3rd Block, Rajajinagar, Bengaluru, Karnataka 560010",
+    "services_offered": [
+      "Monthly Free Foodgrain Distribution (Rice & Coarse Grains)",
+      "Aadhaar e-PoS Verification",
+      "Ration Balance Receipt Printing"
+    ],
+    "latitude": 12.9912,
+    "longitude": 77.5542,
+    "contact_phone": "080-23154432",
+    "official_portal": "https://ahara.kar.nic.in/status2/fps_details.aspx",
+    "verification_status": "VERIFIED",
+    "authorized_agency": "Department of Food & Civil Supplies Dealer License"
+  }
+]

@@ -1,0 +1,417 @@
+[
+  {
+    "scheme_id": "EDU-JNVST-CL6",
+    "name": "Jawahar Navodaya Vidyalaya Selection Test (JNVST - Class 6)",
+    "programme_type": "Residential School Admission",
+    "description": "National residential school entrance system offering 100% free quality co-educational residential education from Class 6 to 12 for talented rural students.",
+    "education_levels": ["School Education"],
+    "applicable_classes": ["Class 6 Admission", "Class 5 (Currently Studying)"],
+    "eligible_courses": ["General Schooling (CBSE)"],
+    "eligible_states": ["All", "Karnataka"],
+    "income_criteria": "No income ceiling. 100% free boarding, lodging, education, and uniforms for all students up to Class 8, and for girls, SC/ST, and BPL students from Class 9 to 12.",
+    "category_requirements": "At least 75% of seats in a district are reserved for rural candidates. Specific reservations for SC, ST, OBC, and Divyang as per Govt of India rules.",
+    "academic_requirements": "Candidate must be bonafide student studying in Class 5 in a recognized school in the same district during the academic session.",
+    "admission_or_exam_requirements": "Selection is purely merit-based through the nationwide JNVST competitive entrance test (Mental Ability, Arithmetic, and Language).",
+    "benefits": "Completely free schooling, modern hostels, nutritious meals, textbooks, school uniforms, and digital classroom education up to Class 12.",
+    "documents_required": [
+      "Certificate verified by the Head Master of the current school confirming Class 5 study",
+      "Aadhaar Card or Residence Certificate of parent/candidate",
+      "Birth Certificate (candidate must meet prescribed age bracket, typically 10 to 12 years)",
+      "Rural Study Certificate if claiming rural quota",
+      "Category Certificate (SC/ST/OBC) if applicable"
+    ],
+    "application_steps": [
+      "Step 1: Check admission notification on official NVS portal (navodaya.gov.in).",
+      "Step 2: Obtain study certificate format and get it certified by the Headmaster of the Class 5 school.",
+      "Step 3: Register online on the NVS admission portal with photograph, candidate signature, parent signature, and certificate.",
+      "Step 4: Download JNVST admit card when released by NVS.",
+      "Step 5: Appear for the JNVST entrance examination at the designated district centre.",
+      "Step 6: Check district-wise merit list and complete document verification at the local Navodaya Vidyalaya."
+    ],
+    "application_start_date": "Typically July-August preceding academic year",
+    "application_deadline": "Current deadline needs verification (Annual cycle; verify on official portal)",
+    "application_cycle_or_year": "Annual Admission Cycle",
+    "official_information_url": "https://navodaya.gov.in",
+    "official_application_url": "https://cbseitms.rcil.gov.in/nvs/",
+    "official_contact": "0120-2405968 / helpdesk-nvs@gov.in",
+    "source_urls": [
+      "https://navodaya.gov.in/nvs/en/Admission-JNVST/JNVST-Class-VI/"
+    ],
+    "verification_status": "VERIFIED",
+    "last_verified_date": "2026-03-01"
+  },
+  {
+    "scheme_id": "EDU-NMMS",
+    "name": "National Means-cum-Merit Scholarship Scheme (NMMSS)",
+    "programme_type": "School Scholarship",
+    "description": "Centrally sponsored scholarship scheme to arrest drop-out of meritorious students studying in government/aided schools at Class 8 and support secondary schooling.",
+    "education_levels": ["School Education"],
+    "applicable_classes": ["Class 8 (Exam)", "Class 9", "Class 10", "Class 11", "Class 12"],
+    "eligible_courses": ["Secondary Schooling"],
+    "eligible_states": ["All", "Karnataka"],
+    "income_criteria": "Total annual parental income from all sources must not exceed ₹3,50,000.",
+    "category_requirements": "Open to all categories meeting income and school criteria; reservations apply as per state policy.",
+    "academic_requirements": "Minimum 55% marks (50% for SC/ST) in Class 7 annual examination; must be enrolled in Govt, Local Body, or Govt-aided school in Class 8.",
+    "admission_or_exam_requirements": "Selection through State Level NMMS Examination comprising Mental Ability Test (MAT) and Scholastic Aptitude Test (SAT).",
+    "benefits": "Scholarship amount of ₹12,000 per annum (₹1,000 per month) paid through Direct Benefit Transfer (DBT) from Class 9 to Class 12.",
+    "documents_required": [
+      "Class 7 marks card / passing certificate",
+      "Parental Income Certificate issued by competent revenue authority (Tahsildar)",
+      "Aadhaar Card linked to student bank account",
+      "Bank Account Passbook (single/joint with parent)",
+      "School bonafide certificate confirming enrollment in Class 8 in Govt/Aided school"
+    ],
+    "application_steps": [
+      "Step 1: School or candidate submits application for State NMMS Exam through state education department portal (e.g., KSEAB in Karnataka).",
+      "Step 2: Appear for the state-level MAT and SAT competitive written tests.",
+      "Step 3: After qualifying in merit list, register on the National Scholarship Portal (scholarships.gov.in).",
+      "Step 4: School verifies application online on NSP.",
+      "Step 5: District and State Nodal Officers approve eligibility.",
+      "Step 6: Annual ₹12,000 scholarship is disbursed via DBT Public Financial Management System (PFMS)."
+    ],
+    "application_start_date": "State exam usually Aug-Oct; NSP registration Oct-Dec",
+    "application_deadline": "Current deadline needs verification (Annual cycle; check NSP portal)",
+    "application_cycle_or_year": "Annual Central Cycle",
+    "official_information_url": "https://scholarships.gov.in",
+    "official_application_url": "https://scholarships.gov.in",
+    "official_contact": "0120-6619540 (NSP Helpdesk)",
+    "source_urls": [
+      "https://dsel.education.gov.in/scheme/nmmss",
+      "https://scholarships.gov.in"
+    ],
+    "verification_status": "VERIFIED",
+    "last_verified_date": "2026-02-20"
+  },
+  {
+    "scheme_id": "EDU-PM-USP-CSSS",
+    "name": "PM-USP Central Sector Scheme of Scholarship for College & University Students (CSSS)",
+    "programme_type": "Higher Education Scholarship",
+    "description": "Financial assistance to meritorious students from low-income families to meet day-to-day expenses while pursuing graduate and professional studies.",
+    "education_levels": ["Undergraduate", "Postgraduate", "Professional Courses"],
+    "applicable_classes": ["Class 12 Passed", "1st Year UG / BTech / MBBS / Degree"],
+    "eligible_courses": ["Engineering / BTech", "Medicine / MBBS", "BSc", "BCom", "BA", "Law", "Integrated Courses"],
+    "eligible_states": ["All", "Karnataka"],
+    "income_criteria": "Gross annual parental/family income must not exceed ₹4,50,000.",
+    "category_requirements": "General, OBC, SC, ST, EWS (divided across state boards based on population quota).",
+    "academic_requirements": "Candidate must score above 80th percentile of successful candidates in relevant stream in Class 12 board examination and pursue regular (not distance) courses.",
+    "admission_or_exam_requirements": "Admission to recognized degree college or university recognized by UGC, AICTE, MCI/NMC, or DGT.",
+    "benefits": "₹12,000 per annum for the first 3 years of Undergraduate study; ₹20,000 per annum for 4th/5th year (BTech/Professional) and Postgraduate level.",
+    "documents_required": [
+      "Class 12 Marks Card showing board roll number and percentile rank",
+      "Income Certificate issued by Revenue Authority",
+      "Aadhaar Card",
+      "College Admission Fee Receipt and Bonafide Student Certificate",
+      "Active bank account linked to Aadhaar (DBT enabled)"
+    ],
+    "application_steps": [
+      "Step 1: Check your board's 80th percentile cutoff list on your State Board / CBSE / CISCE website.",
+      "Step 2: Register on the National Scholarship Portal (scholarships.gov.in) under Higher Education schemes.",
+      "Step 3: Complete Aadhaar One-Time Registration (OTR) and fill applicant details.",
+      "Step 4: Upload Class 12 marksheet, income proof, and bonafide college certificate.",
+      "Step 5: Institute Nodal Officer (INO) verifies student enrollment on NSP.",
+      "Step 6: Ministry of Education sanctions scholarship and disburses via DBT."
+    ],
+    "application_start_date": "Typically opens July-August each year",
+    "application_deadline": "Current deadline needs verification (Annual cycle; check NSP portal)",
+    "application_cycle_or_year": "Annual Central Cycle",
+    "official_information_url": "https://www.education.gov.in/scholarships-education-loan-0",
+    "official_application_url": "https://scholarships.gov.in",
+    "official_contact": "0120-6619540",
+    "source_urls": [
+      "https://www.education.gov.in",
+      "https://scholarships.gov.in"
+    ],
+    "verification_status": "VERIFIED",
+    "last_verified_date": "2026-02-15"
+  },
+  {
+    "scheme_id": "EDU-SSP-POSTMATRIC-KA",
+    "name": "Karnataka State Scholarship Portal (SSP) Post-Matric Scholarship",
+    "programme_type": "Fee Assistance & Scholarship",
+    "description": "Unified Karnataka state portal offering tuition fee reimbursement, maintenance allowances, and fee waivers to eligible pre-university, degree, engineering, and polytechnic students.",
+    "education_levels": ["Pre-University", "Undergraduate", "Postgraduate", "Diploma / Polytechnic"],
+    "applicable_classes": ["Class 11 (PUC 1)", "Class 12 (PUC 2)", "Diploma", "BTech", "Degree", "PG"],
+    "eligible_courses": ["PUC", "Diploma", "BTech / BE", "BSc", "BCom", "MBBS", "Nursing", "Postgraduate"],
+    "eligible_states": ["Karnataka"],
+    "income_criteria": "SC/ST: Annual family income up to ₹2,50,000. Cat-1: Up to ₹2,50,000. 2A, 2B, 3A, 3B (OBC) & EWS: Annual income up to ₹1,00,000.",
+    "category_requirements": "Karnataka domicile students belonging to SC, ST, OBC (Backward Classes), Minorities, or Economically Weaker Sections.",
+    "academic_requirements": "Passed qualifying examination (SSLC for PUC; PUC for Degree/Engineering); regular enrollment in recognized Karnataka institution.",
+    "admission_or_exam_requirements": "Valid admission in university/college with Kutumba ID and Student Achievement Tracking System (SATS) / College registration number.",
+    "benefits": "Full or partial tuition fee concession/reimbursement paid directly to institution; monthly maintenance allowance credited to student bank account.",
+    "documents_required": [
+      "Aadhaar Card of student and parent",
+      "Karnataka Kutumba Family ID (kutumba.karnataka.gov.in)",
+      "Caste and Income Certificate with 15-digit RD Number (Revenue Dept)",
+      "SSLC / 10th Marks Card and PUC / previous year marks card",
+      "College Admission Fee Receipt and Bonafide Certificate",
+      "Hostel registration details (if staying in college/govt hostel)"
+    ],
+    "application_steps": [
+      "Step 1: Obtain a Kutumba ID by linking family Aadhaar details on the Karnataka Kutumba portal.",
+      "Step 2: Visit ssp.postmatric.karnataka.gov.in and create an SSP student account.",
+      "Step 3: Enter your Caste & Income Certificate RD numbers for instant automatic digital verification.",
+      "Step 4: Enter college admission university registration number / USN / student ID.",
+      "Step 5: Submit application online; college e-attestation officer verifies course credentials.",
+      "Step 6: Department (Social Welfare, BCWD, or Tribal Welfare) sanctions fee concession and scholarship."
+    ],
+    "application_start_date": "Typically opens August-September annually",
+    "application_deadline": "Current deadline needs verification (Annual cycle; check SSP Karnataka)",
+    "application_cycle_or_year": "Annual Karnataka State Cycle",
+    "official_information_url": "https://ssp.postmatric.karnataka.gov.in",
+    "official_application_url": "https://ssp.postmatric.karnataka.gov.in",
+    "official_contact": "080-35254757 / 1902 (SSP Karnataka Helpline)",
+    "source_urls": [
+      "https://ssp.postmatric.karnataka.gov.in",
+      "https://bcwd.karnataka.gov.in"
+    ],
+    "verification_status": "VERIFIED",
+    "last_verified_date": "2026-02-18"
+  },
+  {
+    "scheme_id": "EDU-AICTE-PRAGATI",
+    "name": "AICTE Pragati Scholarship for Girl Students",
+    "programme_type": "Technical Education Scholarship",
+    "description": "Scheme to provide encouragement and support to meritorious young women to pursue technical diploma and degree education in AICTE approved institutions.",
+    "education_levels": ["Undergraduate", "Diploma / Polytechnic"],
+    "applicable_classes": ["1st Year BTech / BE", "1st Year Diploma", "2nd Year Lateral Entry"],
+    "eligible_courses": ["Engineering / BTech", "Technology / B.Arch", "Polytechnic Diploma"],
+    "eligible_states": ["All", "Karnataka"],
+    "income_criteria": "Total family annual income from all sources must not exceed ₹8,00,000.",
+    "category_requirements": "Strictly limited to female students. Maximum two girl children per family eligible.",
+    "academic_requirements": "Candidate must be admitted to 1st year of technical Degree/Diploma course (or 2nd year through lateral entry) in an AICTE approved college via centralized counseling.",
+    "admission_or_exam_requirements": "Admission through State Entrance Test (e.g., KCET/COMEDK in Karnataka) or Central Counseling (JEE Main / JoSAA).",
+    "benefits": "₹50,000 per annum for every year of study towards college tuition fees, purchase of laptop/books, and educational equipment.",
+    "documents_required": [
+      "Class 10 and Class 12 marksheets",
+      "AICTE College Admission Letter and Central Counseling Allotment Letter",
+      "Annual Family Income Certificate issued by Tahsildar / Competent Authority (under ₹8 Lakhs)",
+      "Aadhaar Card",
+      "Parent declaration confirming not more than two daughters are availing scholarship",
+      "Tuition Fee Receipt paid for the current academic session"
+    ],
+    "application_steps": [
+      "Step 1: Secure admission into 1st year Degree/Diploma at an AICTE approved college.",
+      "Step 2: Register on the National Scholarship Portal (scholarships.gov.in) under AICTE schemes.",
+      "Step 3: Fill academic credentials, entrance rank, and upload income and bonafide certificates.",
+      "Step 4: College Nodal Officer verifies student credentials and AICTE approval code.",
+      "Step 5: Merit list is compiled based on Class 12 / qualifying diploma exam performance.",
+      "Step 6: ₹50,000 annual grant is credited to the student's bank account."
+    ],
+    "application_start_date": "Typically opens August-October on NSP",
+    "application_deadline": "Current deadline needs verification (Annual cycle; check NSP portal)",
+    "application_cycle_or_year": "Annual Central AICTE Cycle",
+    "official_information_url": "https://www.aicte-india.org/schemes/students-development-schemes/pragati",
+    "official_application_url": "https://scholarships.gov.in",
+    "official_contact": "011-29581333 / pragati@aicte-india.org",
+    "source_urls": [
+      "https://www.aicte-india.org",
+      "https://scholarships.gov.in"
+    ],
+    "verification_status": "VERIFIED",
+    "last_verified_date": "2026-02-12"
+  },
+  {
+    "scheme_id": "EDU-NEET-UG",
+    "name": "NEET-UG (National Eligibility cum Entrance Test)",
+    "programme_type": "Entrance Examination",
+    "description": "Unified national competitive entrance examination conducted by the National Testing Agency (NTA) for admission to undergraduate medical (MBBS), dental (BDS), and AYUSH courses nationwide.",
+    "education_levels": ["Entrance Examination", "Pre-University Passed"],
+    "applicable_classes": ["Class 12 (Appearing)", "Class 12 Passed", "Dropper / Repeater"],
+    "eligible_courses": ["MBBS", "BDS", "BAMS", "BHMS", "BUMS", "BVSc & AH", "BSc Nursing"],
+    "eligible_states": ["All", "Karnataka"],
+    "income_criteria": "No income restriction for taking the examination. Subsidized application fee slabs exist for SC/ST/PwD/OBC/EWS candidates.",
+    "category_requirements": "Open to all Indian Citizens, NRIs, OCIs, and Foreign Nationals meeting age and subject criteria.",
+    "academic_requirements": "Candidate must have passed or be appearing in Class 12 with Physics, Chemistry, Biology/Biotechnology, and English as core subjects with minimum prescribed marks (50% General, 40% SC/ST/OBC).",
+    "admission_or_exam_requirements": "Must have completed 17 years of age on or before 31st December of the admission year. No upper age limit.",
+    "benefits": "Single gateway qualification score for 100% of MBBS and BDS seats in India (All India 15% Quota, 85% State Quotas including KEA Karnataka, AIIMS, and JIPMER).",
+    "documents_required": [
+      "Recent passport-size photograph (with white background and date)",
+      "Postcard-size photograph and candidate signature",
+      "Left and right-hand fingers and thumb impressions",
+      "Class 10 pass certificate (for date of birth proof)",
+      "Class 12 marksheet (or self-declaration if appearing)",
+      "Category Certificate (SC/ST/OBC-NCL/GEN-EWS/PwBD) if applicable",
+      "Aadhaar Number / Passport / Voter ID for identity verification"
+    ],
+    "application_steps": [
+      "Step 1: Check official information bulletin on exams.nta.ac.in/NEET or neet.nta.nic.in.",
+      "Step 2: Register on NTA portal using Aadhaar authentication or Digilocker.",
+      "Step 3: Fill personal details, choice of examination cities, and academic qualification details.",
+      "Step 4: Upload scanned photographs, signature, and category certificates.",
+      "Step 5: Pay the online examination application fee (General: approx ₹1,700; EWS/OBC: ₹1,600; SC/ST/PwBD: ₹1,000).",
+      "Step 6: Download and save the Confirmation Page for future counseling with KEA / MCC."
+    ],
+    "application_start_date": "Typically opens February-March annually",
+    "application_deadline": "Current deadline needs verification (Annual cycle; check official NTA portal)",
+    "application_cycle_or_year": "Annual National Examination Cycle",
+    "official_information_url": "https://exams.nta.ac.in/NEET/",
+    "official_application_url": "https://neet.nta.nic.in",
+    "official_contact": "011-40759000 / neet@nta.ac.in",
+    "source_urls": [
+      "https://exams.nta.ac.in/NEET/",
+      "https://www.nmc.org.in"
+    ],
+    "verification_status": "VERIFIED",
+    "last_verified_date": "2026-03-02"
+  },
+  {
+    "scheme_id": "EDU-JEE-MAIN",
+    "name": "JEE (Main) - Joint Entrance Examination",
+    "programme_type": "Entrance Examination",
+    "description": "National entrance examination conducted by NTA for admission to BTech/BE and BArch programmes at NITs, IIITs, CFTIs, and qualifying examination for JEE (Advanced) for IITs.",
+    "education_levels": ["Entrance Examination", "Pre-University Passed"],
+    "applicable_classes": ["Class 12 (Appearing)", "Class 12 Passed"],
+    "eligible_courses": ["Engineering / BTech", "Architecture / B.Arch", "Planning / B.Plan"],
+    "eligible_states": ["All", "Karnataka"],
+    "income_criteria": "No income ceiling to take examination. Reduced application fee for reserved categories.",
+    "category_requirements": "Open to all Indian Nationals, NRIs, and foreign candidates.",
+    "academic_requirements": "Candidate must have passed Class 12 or equivalent with Physics and Mathematics as mandatory subjects along with Chemistry/Biology/Technical Vocational subjects.",
+    "admission_or_exam_requirements": "No age limit for appearing in JEE (Main). Allowed to appear for 3 consecutive years starting from the year of passing Class 12.",
+    "benefits": "Enables merit-based admission into premier engineering colleges (NITs, IIITs, top state colleges via CSAB/JoSAA) and entry eligibility to JEE Advanced.",
+    "documents_required": [
+      "Scanned passport photograph and signature",
+      "Class 10 and 12 certificates / roll number",
+      "Category Certificate (GEN-EWS / OBC-NCL / SC / ST / PwD) if applicable",
+      "Aadhaar Number / ABC ID / Digilocker verification"
+    ],
+    "application_steps": [
+      "Step 1: Visit official website (jeemain.nta.nic.in).",
+      "Step 2: Register online using Aadhaar or Digilocker login.",
+      "Step 3: Select examination session (Session 1 or Session 2) and paper (Paper 1 BTech or Paper 2 BArch).",
+      "Step 4: Upload required documents and choose exam cities.",
+      "Step 5: Pay exam fee online and download confirmation receipt."
+    ],
+    "application_start_date": "Session 1 typically opens Nov-Dec; Session 2 opens Feb-March",
+    "application_deadline": "Current deadline needs verification (Check official NTA portal)",
+    "application_cycle_or_year": "Annual Two-Session Examination Cycle",
+    "official_information_url": "https://jeemain.nta.nic.in",
+    "official_application_url": "https://jeemain.nta.nic.in",
+    "official_contact": "011-40759000 / jeemain@nta.ac.in",
+    "source_urls": [
+      "https://jeemain.nta.nic.in"
+    ],
+    "verification_status": "VERIFIED",
+    "last_verified_date": "2026-02-25"
+  },
+  {
+    "scheme_id": "EDU-RTE-KA",
+    "name": "Right to Education (RTE Section 12(1)(c)) Free School Admission",
+    "programme_type": "Free School Admission",
+    "description": "Statutory provision reserving 25% of entry-level seats (LKG or Class 1) in private unaided non-minority schools for children from disadvantaged and economically weaker sections with 100% free tuition.",
+    "education_levels": ["School Education", "Early Childhood"],
+    "applicable_classes": ["LKG", "Class 1 Admission"],
+    "eligible_courses": ["Primary Schooling"],
+    "eligible_states": ["Karnataka"],
+    "income_criteria": "Economically Weaker Section (EWS): Total annual family income must not exceed ₹3,50,000.",
+    "category_requirements": "Children from Disadvantaged Groups (SC, ST, Category-1, Orphan, HIV-affected, Transgender child, Child with Special Needs) and Weaker Sections.",
+    "academic_requirements": "Entry-level age criteria (3 years 10 months to 4 years 10 months for LKG; 5 years 10 months to 6 years 10 months for Class 1).",
+    "admission_or_exam_requirements": "Neighborhood residence criteria: School must fall within the defined geographical neighborhood boundary / ward where no government school is available, as per amended Karnataka RTE rules.",
+    "benefits": "100% free education from LKG/Class 1 up to completion of elementary education (Class 8). Tuition fees are reimbursed by Govt of Karnataka.",
+    "documents_required": [
+      "Child's Birth Certificate (issued by Gram Panchayat / BBMP / Municipality)",
+      "Child and Parent Aadhaar Cards",
+      "Income & Caste Certificate with 15-digit RD Number (Revenue Dept)",
+      "Proof of Residence (Ration Card, Voter ID, Aadhaar, Electricity Bill)",
+      "Special category certificate (if claiming Orphan/Disability quota)"
+    ],
+    "application_steps": [
+      "Step 1: Check notification on schooleducation.karnataka.gov.in.",
+      "Step 2: Register on the Karnataka RTE online admission portal using child's Aadhaar.",
+      "Step 3: Select neighborhood schools based on residential pincode and ward.",
+      "Step 4: Government conducts automated computerized lottery for oversubscribed seats.",
+      "Step 5: Selected candidates report to the allotted private school with original certificates for admission confirmation."
+    ],
+    "application_start_date": "Typically opens March-April annually",
+    "application_deadline": "Current deadline needs verification (Annual cycle; check Karnataka Education Dept)",
+    "application_cycle_or_year": "Annual Karnataka State Cycle",
+    "official_information_url": "https://schooleducation.karnataka.gov.in",
+    "official_application_url": "https://schooleducation.karnataka.gov.in",
+    "official_contact": "080-22483416 (Karnataka DSEL Helpline)",
+    "source_urls": [
+      "https://schooleducation.karnataka.gov.in"
+    ],
+    "verification_status": "VERIFIED",
+    "last_verified_date": "2026-02-10"
+  },
+  {
+    "scheme_id": "EDU-VIDYASIRI-KA",
+    "name": "Karnataka Vidyasiri (Food & Accommodation Scheme / E-Pass)",
+    "programme_type": "Fee Assistance & Scholarship",
+    "description": "Financial monthly stipend provided by the Karnataka Backward Classes Welfare Department to post-matric students who could not secure admission in department hostels.",
+    "education_levels": ["Pre-University", "Undergraduate", "Postgraduate", "Diploma / Polytechnic"],
+    "applicable_classes": ["Class 11 (PUC)", "Class 12 (PUC)", "Diploma", "BTech", "Degree", "Postgraduate"],
+    "eligible_courses": ["PUC", "Diploma", "Degree", "Engineering", "Medical", "PG"],
+    "eligible_states": ["Karnataka"],
+    "income_criteria": "Cat-1, 2A, 2B, 3A, 3B: Annual family income must not exceed ₹2,50,000 (Cat-1) or ₹1,00,000 (other OBC groups).",
+    "category_requirements": "Students belonging to Category-1, 2A, 2B, 3A, and 3B residing in rural areas outside the city/town where their college is situated.",
+    "academic_requirements": "Minimum 75% monthly attendance in the college; minimum passing marks in previous examination.",
+    "admission_or_exam_requirements": "Student must not have been allotted a government hostel and distance from home town to college must be at least 5 km.",
+    "benefits": "Monthly financial assistance of ₹1,500 per month for 10 months (Total ₹15,000 per academic year) directly credited to student's bank account for boarding and lodging.",
+    "documents_required": [
+      "Aadhaar Card of student",
+      "Caste and Income Certificate (RD number from Nada Kacheri)",
+      "Bank Passbook seeded with Aadhaar",
+      "SSLC / Previous Exam Marks Card",
+      "College Bonafide Certificate showing attendance details",
+      "Certificate of non-allotment of Government Hostel"
+    ],
+    "application_steps": [
+      "Step 1: Check application window on bcwd.karnataka.gov.in or through SSP Karnataka portal.",
+      "Step 2: Submit online application through Karnataka State Scholarship Portal (SSP).",
+      "Step 3: College principal verifies attendance and hostel non-admission status.",
+      "Step 4: Taluk Backward Classes Welfare Officer scrutinizes and approves application.",
+      "Step 5: Monthly payment of ₹1,500 is disbursed directly via Aadhaar-linked DBT."
+    ],
+    "application_start_date": "Typically opens August-October annually",
+    "application_deadline": "Current deadline needs verification (Annual cycle; check BCWD portal)",
+    "application_cycle_or_year": "Annual Karnataka State Cycle",
+    "official_information_url": "https://bcwd.karnataka.gov.in",
+    "official_application_url": "https://ssp.postmatric.karnataka.gov.in",
+    "official_contact": "080-22374836 / 080-22340566",
+    "source_urls": [
+      "https://bcwd.karnataka.gov.in"
+    ],
+    "verification_status": "VERIFIED",
+    "last_verified_date": "2026-02-14"
+  },
+  {
+    "scheme_id": "EDU-PM-SHRI",
+    "name": "PM SHRI Schools Initiative (PM Schools for Rising India)",
+    "programme_type": "Government School Programme",
+    "description": "Centrally sponsored scheme upgrading designated Central (KVs, JNVs) and State government schools into exemplary institutions with modern laboratories, smart classrooms, sports facilities, and NEP 2020 experiential learning.",
+    "education_levels": ["School Education"],
+    "applicable_classes": ["Class 1 to 12 (All School Grades)"],
+    "eligible_courses": ["General Schooling (CBSE / State Board)"],
+    "eligible_states": ["All", "Karnataka"],
+    "income_criteria": "Open to all students under standard government / Kendriya Vidyalaya / Navodaya fee structures (free or nominal fees as per school norms; free for RTE and disadvantaged categories).",
+    "category_requirements": "Open admissions as per normal Kendriya Vidyalaya Sangathan (KVS), Navodaya Vidyalaya Samiti (NVS), or State Department rules.",
+    "academic_requirements": "Admission requirements vary by grade and school authority (Class 1 lottery, Class 6 JNVST for Navodaya, general transfer/admission norms for KVs).",
+    "admission_or_exam_requirements": "Admission managed by designated PM SHRI school institutions directly through respective portals (e.g., KVS online admission portal or NVS portal).",
+    "benefits": "Access to high-standard smart classrooms, digital library, STEM labs, vocational exposure, sports equipment, and zero/minimal tuition fees in public institutions.",
+    "documents_required": [
+      "Birth Certificate of child",
+      "Aadhaar Card of child and parent",
+      "Previous class transfer certificate and marks card (for Class 2 and above)",
+      "Residence proof",
+      "Category certificate if claiming reservation"
+    ],
+    "application_steps": [
+      "Step 1: Explore the PM SHRI school locator on pmshrischools.education.gov.in to find designated schools in your district.",
+      "Step 2: Visit the parent school system portal (e.g., kvsangathan.nic.in for KVs, navodaya.gov.in for JNVs, or Karnataka School Education portal for state schools).",
+      "Step 3: Follow the respective annual admission timeline (typically February-March for KVs).",
+      "Step 4: Register child online and submit required certificates at the designated school."
+    ],
+    "application_start_date": "Varies by school authority (KVS: Feb-March; NVS: July-August)",
+    "application_deadline": "Current deadline needs verification (Check respective school authority portal)",
+    "application_cycle_or_year": "Annual Admission Cycle",
+    "official_information_url": "https://pmshrischools.education.gov.in",
+    "official_application_url": "https://pmshrischools.education.gov.in",
+    "official_contact": "pmshri-moe@gov.in",
+    "source_urls": [
+      "https://pmshrischools.education.gov.in",
+      "https://dsel.education.gov.in"
+    ],
+    "verification_status": "VERIFIED",
+    "last_verified_date": "2026-02-18"
+  }
+]

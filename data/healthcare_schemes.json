@@ -1,0 +1,592 @@
+[
+  {
+    "scheme_id": "SCHEME-AB-PMJAY",
+    "scheme_name": "Ayushman Bharat - Pradhan Mantri Jan Arogya Yojana (AB-PMJAY)",
+    "short_description": "Centrally sponsored health assurance scheme providing up to ₹5 Lakhs per family per year for secondary and tertiary hospitalization.",
+    "purpose": "Provide financial protection and cashless healthcare access to vulnerable families against catastrophic medical expenses.",
+    "geographical_coverage": "Pan-India (Nationwide coverage across all participating states and union territories).",
+    "eligible_groups": [
+      "Deprived rural households based on SECC 2011 criteria",
+      "Identified occupational categories of urban workers' families",
+      "Active National Food Security Act (NFSA) / Ration Card beneficiaries recognized by state criteria",
+      "All senior citizens aged 70 years and above (Ayushman Vay Vandana Card)"
+    ],
+    "income_criteria": "Targeted at economically vulnerable populations; eligibility primarily derived from SECC database and state-defined NFSA BPL lists.",
+    "beneficiary_requirements": [
+      "Aadhaar card for individual identity verification",
+      "Ration Card or Ayushman Bharat PM-JAY Family ID / SECC confirmation",
+      "Valid active phone number"
+    ],
+    "covered_treatments": [
+      "Oncology / Cancer surgeries and chemotherapy",
+      "Cardiology and cardiothoracic surgeries (angioplasty, bypass)",
+      "Nephrology and kidney care",
+      "Orthopedic joint replacements and trauma surgeries",
+      "Neurosurgery",
+      "General tertiary and secondary surgical procedures (over 1,900 medical packages)"
+    ],
+    "benefits": "Cashless and paperless benefit coverage up to ₹5,00,000 per family per year on a family floater basis across empaneled public and private hospitals nationwide.",
+    "limitations_and_exclusions": "Outpatient department (OPD) consultations, cosmetic surgeries, non-empaneled hospitals (except emergencies), and unlisted elective procedures are not covered.",
+    "required_documents": [
+      "Aadhaar Card (or other government-approved photo ID)",
+      "Ration Card (PHH / BPL / AAY) showing family member listing",
+      "Existing PM-JAY Golden Card / Ayushman Card (if previously issued)"
+    ],
+    "eligibility_rules": {
+      "supported_states": ["All", "Karnataka"],
+      "supported_conditions": ["cancer", "oncology", "cardiac", "heart", "kidney", "renal", "nephrology", "surgery", "neuro", "orthopedic", "general"],
+      "income_limit_annual": null,
+      "requires_bpl_or_card": true,
+      "requires_ration_card": true,
+      "requires_cooperative_membership": false,
+      "requires_tb_notification": false,
+      "requires_rare_disease": false,
+      "requires_govt_referral_for_private": true
+    },
+    "application_steps": [
+      "Step 1: Check your family eligibility status on the official portal (beneficiary.nha.gov.in) using your mobile number and Aadhaar.",
+      "Step 2: Visit the nearest Ayushman Bharat kiosk, Common Service Centre (CSC), or Arogya Mitra desk at any empaneled hospital.",
+      "Step 3: Complete biometric e-KYC using Aadhaar and family ration card verification.",
+      "Step 4: Receive your instant Ayushman Card / Golden Card.",
+      "Step 5: Present the card at the empaneled hospital helpdesk before admission for cashless pre-authorization."
+    ],
+    "application_method": "Arogya Mitra Helpdesk at empaneled hospitals, Common Service Centres (CSC), or self-registration on NHA Beneficiary Portal.",
+    "official_information_url": "https://pmjay.gov.in",
+    "official_application_url": "https://beneficiary.nha.gov.in",
+    "official_helpline": "14555 / 1800-111-565",
+    "source_urls": [
+      "https://pmjay.gov.in/about/pmjay",
+      "https://nha.gov.in"
+    ],
+    "verification_status": "VERIFIED",
+    "last_verified_date": "2026-03-01"
+  },
+  {
+    "scheme_id": "SCHEME-AB-ARK",
+    "scheme_name": "Ayushman Bharat - Arogya Karnataka (AB-ArK)",
+    "short_description": "Karnataka integrated state health scheme offering cashless treatment up to ₹5 Lakhs for BPL families and financial assistance up to ₹1.5 Lakhs (30% co-share) for APL families.",
+    "purpose": "Provide universal health coverage to residents of Karnataka through an integrated portal administered by the Suvarna Arogya Suraksha Trust (SAST).",
+    "geographical_coverage": "Karnataka State (Requires Karnataka residency or domicile).",
+    "eligible_groups": [
+      "Eligible Patients (Category A): BPL / PHH / Anthyodaya Anna Yojana (AAY) ration cardholders",
+      "General Patients (Category B): APL ration cardholders or residents without BPL cards"
+    ],
+    "income_criteria": "Category A: Below Poverty Line (full cashless benefits). Category B: Above Poverty Line (co-payment model with 30% financial concession).",
+    "beneficiary_requirements": [
+      "Karnataka residency (Food and Civil Supplies Department Ration Card)",
+      "Aadhaar Card",
+      "Referral letter from a Public Health Facility (District/Taluk Hospital) for complex tertiary care in private empaneled hospitals"
+    ],
+    "covered_treatments": [
+      "Complex tertiary care including oncology, cardiac surgery, and neurosurgery",
+      "Specified secondary surgical procedures",
+      "Emergency medical stabilizing treatments (direct walk-in allowed without referral)",
+      "Neonatal intensive care and pediatric surgeries"
+    ],
+    "benefits": "Category A (BPL): Up to ₹5,00,000 per family per year cashless. Category B (APL): 30% assistance of government package rates up to ₹1,50,000 per family per year.",
+    "limitations_and_exclusions": "Tertiary treatment at private empaneled hospitals strictly requires a referral from a public government hospital (BMCRI, District Hospital), unless it is classified as a life-threatening acute emergency.",
+    "required_documents": [
+      "Aadhaar Card of the patient and family head",
+      "Karnataka Ration Card (BPL / PHH / AAY or APL card)",
+      "Public Hospital Referral Letter / SAST Referral Slip (for private hospital admissions)",
+      "Hospital diagnostic reports and treatment cost estimate"
+    ],
+    "eligibility_rules": {
+      "supported_states": ["Karnataka"],
+      "supported_conditions": ["cancer", "oncology", "cardiac", "heart", "kidney", "renal", "nephrology", "surgery", "neuro", "maternal", "pediatric", "general"],
+      "income_limit_annual": null,
+      "requires_bpl_or_card": false,
+      "requires_ration_card": true,
+      "requires_cooperative_membership": false,
+      "requires_tb_notification": false,
+      "requires_rare_disease": false,
+      "requires_govt_referral_for_private": true
+    },
+    "application_steps": [
+      "Step 1: Visit a government primary/taluk or district hospital (e.g., Victoria Hospital / KC General Hospital in Bengaluru).",
+      "Step 2: Approach the Arogya Mitra Helpdesk with your Aadhaar and Karnataka Ration Card to generate your ArK Patient ID.",
+      "Step 3: Consult the government hospital specialist. If treatment cannot be provided in-house, the medical officer issues an online SAST referral.",
+      "Step 4: Report to the empaneled private or autonomous network hospital with the referral code.",
+      "Step 5: The hospital Arogya Mitra submits an online pre-authorization request to SAST for cashless admission."
+    ],
+    "application_method": "Arogya Mitra helpdesk at participating Karnataka government health institutions and empaneled network hospitals.",
+    "official_information_url": "https://arogya.karnataka.gov.in",
+    "official_application_url": "https://sast.karnataka.gov.in",
+    "official_helpline": "104 / 1800-425-8330",
+    "source_urls": [
+      "https://sast.karnataka.gov.in/page/About+Us/en",
+      "https://arogya.karnataka.gov.in"
+    ],
+    "verification_status": "VERIFIED",
+    "last_verified_date": "2026-02-15"
+  },
+  {
+    "scheme_id": "SCHEME-RAN",
+    "scheme_name": "Rashtriya Arogya Nidhi (RAN)",
+    "short_description": "Central government financial assistance up to ₹15 Lakhs for BPL patients suffering from life-threatening diseases receiving treatment in government super-specialty hospitals.",
+    "purpose": "Provide one-time direct financial grant to indigent patients suffering from major life-threatening diseases for treatment at designated central/state government institutes.",
+    "geographical_coverage": "Pan-India (Requires treatment in designated Central Government super-specialty institutes or state medical colleges).",
+    "eligible_groups": [
+      "Patients living Below Poverty Line (BPL)",
+      "Patients undergoing treatment at designated apex hospitals (e.g., NIMHANS Bengaluru, AIIMS, PGIMER, Kidwai Memorial Institute)"
+    ],
+    "income_criteria": "Strictly limited to families living Below Poverty Line (BPL) as verified by state revenue authorities or valid BPL card.",
+    "beneficiary_requirements": [
+      "Valid BPL Ration Card or certified income proof",
+      "Treating doctor's certificate and cost estimate from designated government institute",
+      "Patient must not be receiving duplicate benefits under PMJAY or other insurance schemes"
+    ],
+    "covered_treatments": [
+      "Cancer (surgical, chemotherapy, and radiotherapy interventions)",
+      "Major cardiac surgeries and congenital heart disease repairs",
+      "Kidney and liver transplants",
+      "Neurosurgical life-saving procedures",
+      "Severe hematological disorders (Thalassemia major, aplastic anemia)"
+    ],
+    "benefits": "One-time financial grant up to ₹15,00,000 released directly to the treating government super-specialty hospital for the patient's medical expenses.",
+    "limitations_and_exclusions": "Treatment in private commercial hospitals is strictly excluded. Patients with active comprehensive insurance coverage or central government employee status are ineligible.",
+    "required_documents": [
+      "Application in prescribed RAN Performa counter-signed by the treating specialist and Hospital Medical Superintendent",
+      "Attested copy of BPL Ration Card / Income Certificate",
+      "Detailed diagnostic reports, biopsy, CT/MRI scans, and clinical case summary",
+      "Cost breakdown estimate on official hospital letterhead",
+      "Aadhaar Card and two passport-sized photographs"
+    ],
+    "eligibility_rules": {
+      "supported_states": ["All", "Karnataka"],
+      "supported_conditions": ["cancer", "oncology", "cardiac", "heart", "kidney", "transplant", "neuro", "critical illness"],
+      "income_limit_annual": null,
+      "requires_bpl_or_card": true,
+      "requires_ration_card": true,
+      "requires_cooperative_membership": false,
+      "requires_tb_notification": false,
+      "requires_rare_disease": false,
+      "requires_govt_referral_for_private": false,
+      "requires_govt_hospital_admission": true
+    },
+    "application_steps": [
+      "Step 1: Obtain initial diagnosis and treatment recommendation from a designated government super-specialty institute (e.g., NIMHANS or Kidwai in Bengaluru).",
+      "Step 2: Collect the official RAN application form from the hospital medical social worker (MSW) or superintendent office.",
+      "Step 3: Have the treating professor/HOD complete the clinical justification and estimated expenditure section.",
+      "Step 4: Attach attested copies of BPL card, Aadhaar, and diagnostic workups.",
+      "Step 5: Hospital forwards the dossier to the Ministry of Health & Family Welfare (MoHFW) RAN Technical Committee for grant sanction."
+    ],
+    "application_method": "Through the Medical Superintendent / Social Welfare Officer of the treating designated government hospital.",
+    "official_information_url": "https://mohfw.gov.in/schemes-programmes/national-health-programmes/rashtriya-arogya-nidhi",
+    "official_application_url": "https://mohfw.gov.in/sites/default/files/RAN_Form.pdf",
+    "official_helpline": "011-23061730 (MoHFW RAN Section)",
+    "source_urls": [
+      "https://mohfw.gov.in/Major-Programmes/poor-patients-financial-assistance/rashtriya-arogya-nidhi"
+    ],
+    "verification_status": "VERIFIED",
+    "last_verified_date": "2026-01-20"
+  },
+  {
+    "scheme_id": "SCHEME-HMDG",
+    "scheme_name": "Health Minister's Discretionary Grant (HMDG)",
+    "short_description": "Central financial assistance up to ₹1,25,000 for indigent patients with annual family income up to ₹1.25 Lakhs undergoing specialized treatment in government hospitals.",
+    "purpose": "Provide discretionary financial aid to poor individuals who are not covered by other institutional schemes to defray immediate treatment costs.",
+    "geographical_coverage": "Pan-India (Valid for treatments in government healthcare institutions).",
+    "eligible_groups": [
+      "Low-income citizens undergoing major medical or surgical treatment in government hospitals"
+    ],
+    "income_criteria": "Total annual family income must not exceed ₹1,25,000 (verified by Tahsildar / Revenue Authority).",
+    "beneficiary_requirements": [
+      "Income certificate verifying income below ₹1,25,000 per annum",
+      "Treatment underway in a Central or State Government hospital",
+      "Not eligible if covered under PM-JAY or reimbursement schemes"
+    ],
+    "covered_treatments": [
+      "Cardiovascular surgeries",
+      "Cancer treatment cycles",
+      "Orthopedic joint replacements and spinal surgeries",
+      "Kidney surgeries and related intervention",
+      "Major surgical procedures requiring specialized implants or drugs"
+    ],
+    "benefits": "Financial grant up to ₹1,25,000 disbursed directly to the concerned government hospital treasury for patient care.",
+    "limitations_and_exclusions": "Excludes private hospitals, chronic long-term outpatient maintenance, and patients whose family income exceeds ₹1.25 Lakhs per year.",
+    "required_documents": [
+      "Prescribed HMDG Application Form signed by Member of Parliament (MP) or treating doctor",
+      "Income Certificate issued by Tahsildar / Sub-Divisional Magistrate",
+      "Estimated cost certificate signed by treating government specialist",
+      "Aadhaar Card and proof of residence"
+    ],
+    "eligibility_rules": {
+      "supported_states": ["All", "Karnataka"],
+      "supported_conditions": ["cancer", "cardiac", "heart", "kidney", "surgery", "orthopedic", "general"],
+      "income_limit_annual": 125000,
+      "requires_bpl_or_card": false,
+      "requires_ration_card": false,
+      "requires_cooperative_membership": false,
+      "requires_tb_notification": false,
+      "requires_rare_disease": false,
+      "requires_govt_referral_for_private": false,
+      "requires_govt_hospital_admission": true
+    },
+    "application_steps": [
+      "Step 1: Obtain the HMDG application format from the treating government hospital or download from MoHFW.",
+      "Step 2: Obtain an official income certificate (annual income under ₹1.25 Lakhs) from your local revenue office (Tahsildar).",
+      "Step 3: Have the treating doctor and Medical Superintendent fill the medical estimate section.",
+      "Step 4: Submit the completed dossier to the Ministry of Health & Family Welfare, Nirman Bhawan, New Delhi (or through the hospital administrative office).",
+      "Step 5: Ministry committee sanctions the grant and credits funds to the hospital's patient welfare account."
+    ],
+    "application_method": "Postal or administrative submission to the Grants Section, Ministry of Health and Family Welfare, Nirman Bhawan, New Delhi.",
+    "official_information_url": "https://mohfw.gov.in/schemes-programmes/health-ministers-discretionary-grant-hmdg",
+    "official_application_url": "https://mohfw.gov.in/sites/default/files/HMDG_Application_Form.pdf",
+    "official_helpline": "011-23061483",
+    "source_urls": [
+      "https://mohfw.gov.in"
+    ],
+    "verification_status": "VERIFIED",
+    "last_verified_date": "2026-01-15"
+  },
+  {
+    "scheme_id": "SCHEME-CMRF-KA",
+    "scheme_name": "Karnataka Chief Minister's Relief Fund - Medical Assistance (CMRF)",
+    "short_description": "State discretionary medical grant providing financial assistance (typically ₹50,000 to ₹1,00,000+) for economically distressed Karnataka residents facing catastrophic diseases.",
+    "purpose": "Provide timely humanitarian financial relief to needy families facing high treatment expenses for life-threatening illnesses in recognized hospitals.",
+    "geographical_coverage": "Karnataka State residents only.",
+    "eligible_groups": [
+      "Permanent residents of Karnataka from economically weaker backgrounds"
+    ],
+    "income_criteria": "Economically weaker section; verified via family income certificate or BPL ration card.",
+    "beneficiary_requirements": [
+      "Karnataka domicile or proof of continuous residence",
+      "Treatment for serious illness in a recognized government, trust, or authorized private hospital",
+      "Valid treatment quotation and clinical summary"
+    ],
+    "covered_treatments": [
+      "Heart surgery (valve replacement, CABG, pediatric cardiac corrections)",
+      "Cancer treatment (chemotherapy, radiation therapy, tumor resection)",
+      "Kidney failure and renal transplants",
+      "Brain surgery and neurological trauma",
+      "Major accidental trauma surgeries"
+    ],
+    "benefits": "One-time financial assistance check/electronic transfer (typically ₹25,000 up to ₹1,00,000 or higher based on committee evaluation) drawn in favor of the treating hospital.",
+    "limitations_and_exclusions": "Discretionary grant subject to committee budget approval; not an open-ended cashless health insurance guarantee. Elective or minor procedures are ineligible.",
+    "required_documents": [
+      "Original Medical Certificate and detailed cost estimation signed by treating physician",
+      "Valid Income Certificate (issued by Tahsildar / Revenue Department) or BPL Card",
+      "Aadhaar Card and proof of Karnataka residence",
+      "Hospital registration details, discharge summary (if already admitted), and original bills"
+    ],
+    "eligibility_rules": {
+      "supported_states": ["Karnataka"],
+      "supported_conditions": ["cancer", "cardiac", "heart", "kidney", "renal", "neuro", "trauma", "surgery", "critical illness"],
+      "income_limit_annual": 250000,
+      "requires_bpl_or_card": false,
+      "requires_ration_card": false,
+      "requires_cooperative_membership": false,
+      "requires_tb_notification": false,
+      "requires_rare_disease": false,
+      "requires_govt_referral_for_private": false
+    },
+    "application_steps": [
+      "Step 1: Collect original medical certificate, diagnostic reports, and expenditure estimate from the treating recognized hospital.",
+      "Step 2: Obtain an Income Certificate from your local Nada Kacheri / Tahsildar office.",
+      "Step 3: Apply online through the Karnataka Seva Sindhu / CMRF portal or submit physical application at the Deputy Commissioner (DC) office or CM Secretariat, Vidhana Soudha, Bengaluru.",
+      "Step 4: The verification team scrutinizes the application and forwards it to the CMRF Medical Advisory Board.",
+      "Step 5: Sanction order is issued and the relief check/NEFT is transferred directly to the hospital's account."
+    ],
+    "application_method": "Online via Karnataka Seva Sindhu / CMRF Portal, or in-person submission at the District Deputy Commissioner's Office or CM Secretariat.",
+    "official_information_url": "https://cmrf.karnataka.gov.in",
+    "official_application_url": "https://cmrf.karnataka.gov.in",
+    "official_helpline": "080-22253301 / 080-22033503",
+    "source_urls": [
+      "https://cmrf.karnataka.gov.in"
+    ],
+    "verification_status": "VERIFIED",
+    "last_verified_date": "2026-02-10"
+  },
+  {
+    "scheme_id": "SCHEME-NPRD",
+    "scheme_name": "National Policy for Rare Diseases (NPRD) Financial Support Scheme",
+    "short_description": "Central financial support up to ₹50 Lakhs for patients suffering from diagnosed rare diseases for treatment at designated Centres of Excellence (including NIMHANS and IGICH in Bengaluru).",
+    "purpose": "Provide comprehensive financial aid for specialized therapies, enzyme replacements, and curative interventions for documented rare genetic and metabolic diseases.",
+    "geographical_coverage": "Pan-India (Treatment conducted at designated Centres of Excellence like NIMHANS and IGICH in Karnataka).",
+    "eligible_groups": [
+      "Indian citizens diagnosed with documented rare diseases listed under NPRD Group 1, Group 2, or Group 3"
+    ],
+    "income_criteria": "Financial assistance up to ₹50 Lakhs is available for any patient suffering from specified rare disease categories regardless of income ceiling under the revised NPRD guidelines.",
+    "beneficiary_requirements": [
+      "Formal clinical and genetic confirmation of rare disease at an empaneled Centre of Excellence (CoE)",
+      "CoE Rare Disease Committee recommendation and treatment protocol approval"
+    ],
+    "covered_treatments": [
+      "Lysosomal Storage Disorders (Gaucher disease, Pompe disease, MPS)",
+      "Severe Combined Immunodeficiency (SCID)",
+      "Spinal Muscular Atrophy (SMA)",
+      "Hematopoietic Stem Cell Transplantation (HSCT) for inborn metabolic errors",
+      "Designated rare neurological and pediatric genetic disorders"
+    ],
+    "benefits": "One-time or phased financial support up to ₹50,00,000 managed and utilized directly by the Centre of Excellence hospital for medicines and therapeutic procedures.",
+    "limitations_and_exclusions": "Assistance can only be availed at designated government Centres of Excellence (CoEs). Private non-CoE clinics cannot receive funding under this scheme.",
+    "required_documents": [
+      "Genetic and biochemical test confirmation reports from accredited laboratory",
+      "Aadhaar Card and proof of Indian citizenship",
+      "Application form certified by the Nodal Officer of the Centre of Excellence",
+      "Treatment plan and cost projections drafted by the CoE Expert Committee"
+    ],
+    "eligibility_rules": {
+      "supported_states": ["All", "Karnataka"],
+      "supported_conditions": ["rare disease", "genetic", "sma", "gaucher", "metabolic", "pediatric genetic"],
+      "income_limit_annual": null,
+      "requires_bpl_or_card": false,
+      "requires_ration_card": false,
+      "requires_cooperative_membership": false,
+      "requires_tb_notification": false,
+      "requires_rare_disease": true,
+      "requires_govt_referral_for_private": false,
+      "requires_govt_hospital_admission": true
+    },
+    "application_steps": [
+      "Step 1: Patient visits a designated Centre of Excellence (e.g., NIMHANS or Indira Gandhi Institute of Child Health in Bengaluru).",
+      "Step 2: CoE clinical genetics unit carries out diagnostic confirmation and classification under NPRD groups.",
+      "Step 3: CoE Rare Disease Committee prepares clinical evaluation and estimated therapeutic costs.",
+      "Step 4: The CoE Nodal Officer uploads patient application and documentation onto the central MoHFW Rare Diseases crowdfunding portal.",
+      "Step 5: Ministry disburses the sanctioned amount directly to the Centre of Excellence for procuring orphan drugs and managing treatment."
+    ],
+    "application_method": "Through the designated Centre of Excellence (CoE) Nodal Unit (NIMHANS / IGICH Bengaluru).",
+    "official_information_url": "https://rarediseases.mohfw.gov.in",
+    "official_application_url": "https://rarediseases.mohfw.gov.in",
+    "official_helpline": "011-23061483",
+    "source_urls": [
+      "https://rarediseases.mohfw.gov.in/about-us",
+      "https://main.mohfw.gov.in"
+    ],
+    "verification_status": "VERIFIED",
+    "last_verified_date": "2026-01-30"
+  },
+  {
+    "scheme_id": "SCHEME-PMNDP",
+    "scheme_name": "Pradhan Mantri National Dialysis Programme (PMNDP)",
+    "short_description": "Free hemodialysis and peritoneal dialysis services at government district hospitals for BPL patients suffering from end-stage renal failure.",
+    "purpose": "Provide accessible, decentralized, and cashless life-sustaining renal replacement therapy in public health facilities.",
+    "geographical_coverage": "Pan-India (Available across district hospitals in Karnataka including KC General and Bowring Hospital in Bengaluru).",
+    "eligible_groups": [
+      "Patients diagnosed with Chronic Kidney Disease / End-Stage Renal Disease (ESRD) requiring ongoing dialysis"
+    ],
+    "income_criteria": "100% Free for Below Poverty Line (BPL) cardholders; available at subsidized, capped government rates for non-BPL patients.",
+    "beneficiary_requirements": [
+      "Confirmed nephrologist prescription indicating requirement for maintenance hemodialysis",
+      "BPL Ration card or Ayushman Bharat ID for 100% cashless waiver",
+      "Aadhaar Card"
+    ],
+    "covered_treatments": [
+      "Maintenance Hemodialysis cycles (multiple sessions weekly)",
+      "Peritoneal Dialysis consumables and support",
+      "Basic dialysis-related routine blood investigations at district units"
+    ],
+    "benefits": "Completely cashless hemodialysis sessions, dialyzer reuse, and nursing support at district hospital dialysis centers.",
+    "limitations_and_exclusions": "Does not fund kidney transplantation surgeries directly (transplants are covered under AB-PMJAY/RAN). Limited to dialysis care units established under Public-Private Partnership (PPP) in government hospitals.",
+    "required_documents": [
+      "Aadhaar Card",
+      "BPL / PHH Ration Card (or PMJAY / ArK card)",
+      "Nephrologist diagnosis card / Serum Creatinine and eGFR laboratory reports",
+      "Hepatitis B, C and HIV screening test results (mandatory for dialysis entry)"
+    ],
+    "eligibility_rules": {
+      "supported_states": ["All", "Karnataka"],
+      "supported_conditions": ["dialysis", "kidney", "renal", "nephrology", "esrd"],
+      "income_limit_annual": null,
+      "requires_bpl_or_card": true,
+      "requires_ration_card": true,
+      "requires_cooperative_membership": false,
+      "requires_tb_notification": false,
+      "requires_rare_disease": false,
+      "requires_govt_referral_for_private": false
+    },
+    "application_steps": [
+      "Step 1: Obtain a nephrologist diagnosis slip and viral markers screening reports.",
+      "Step 2: Visit the PMNDP Dialysis Unit at the local district government hospital (e.g., KC General Hospital or Bowring Hospital in Bengaluru).",
+      "Step 3: Present your BPL card, Aadhaar, and medical records to the dialysis unit coordinator.",
+      "Step 4: Register in the National Dialysis Portal registry to obtain your Dialysis Beneficiary ID.",
+      "Step 5: Schedule your weekly maintenance dialysis slots for cashless sessions."
+    ],
+    "application_method": "Walk-in registration at the dialysis center within designated government district hospitals.",
+    "official_information_url": "https://nhm.gov.in/index1.php?lang=1&level=2&sublinkid=1055&lid=610",
+    "official_application_url": "https://pmndp.mohfw.gov.in",
+    "official_helpline": "104 (Karnataka State Health Helpline)",
+    "source_urls": [
+      "https://pmndp.mohfw.gov.in/en",
+      "https://nhm.gov.in"
+    ],
+    "verification_status": "VERIFIED",
+    "last_verified_date": "2026-02-18"
+  },
+  {
+    "scheme_id": "SCHEME-JSSK",
+    "scheme_name": "Janani Shishu Suraksha Karyakram (JSSK)",
+    "short_description": "Completely free delivery, C-section, medicines, diagnostics, food, and transport for all pregnant women and sick infants up to 1 year in public health facilities.",
+    "purpose": "Eliminate all out-of-pocket expenses for pregnant women delivering in government health facilities and ensure immediate care for sick newborns.",
+    "geographical_coverage": "Pan-India (Active across all public health centers and government maternity hospitals in Karnataka).",
+    "eligible_groups": [
+      "All pregnant women delivering in public government health institutions",
+      "All sick neonates and infants up to 1 year of age receiving care at public hospitals"
+    ],
+    "income_criteria": "Universal entitlement. No income ceiling or ration card requirement; completely free for all mothers and infants in public facilities.",
+    "beneficiary_requirements": [
+      "Admission to any government hospital (e.g., Vani Vilas Hospital, Bowring Hospital, Community Health Centres)",
+      "Mother and Child Tracking System (MCTS) / RCH ID registration",
+      "Mother's identification proof (Aadhaar / Voter ID)"
+    ],
+    "covered_treatments": [
+      "Normal vaginal delivery and emergency Cesarean sections",
+      "Free antenatal and intrapartum diagnostic tests (blood tests, ultrasounds)",
+      "Free inpatient medications, blood transfusions, and consumables",
+      "Free dietary meals during hospital stay (minimum 3 days for normal, 7 days for C-section)",
+      "Free ambulance transport from home to hospital and drop-back home",
+      "Special Newborn Care Unit (SNCU) treatment for sick infants up to 1 year"
+    ],
+    "benefits": "Zero out-of-pocket expenditure entitlement for institutional deliveries and neonatal care in government health setups.",
+    "limitations_and_exclusions": "Applies exclusively to public government health facilities. Deliveries in private commercial nursing homes are not covered.",
+    "required_documents": [
+      "Mother and Child Health (MCH) Card / Thayi Card (in Karnataka)",
+      "Aadhaar Card of mother",
+      "Bank passbook details (for linked maternity cash incentive under Janani Suraksha Yojana / PMMVY)"
+    ],
+    "eligibility_rules": {
+      "supported_states": ["All", "Karnataka"],
+      "supported_conditions": ["maternal", "pregnancy", "delivery", "c-section", "newborn", "infant", "pediatric"],
+      "income_limit_annual": null,
+      "requires_bpl_or_card": false,
+      "requires_ration_card": false,
+      "requires_cooperative_membership": false,
+      "requires_tb_notification": false,
+      "requires_rare_disease": false,
+      "requires_govt_referral_for_private": false
+    },
+    "application_steps": [
+      "Step 1: Register pregnancy at the nearest Urban Primary Health Centre (UPHC) or with the local ASHA worker to receive the Thayi Card / RCH ID.",
+      "Step 2: Attend regular free antenatal checkups at the public health center.",
+      "Step 3: At the onset of labor, call 108 for free ambulance transport to a government maternity hospital (such as Vani Vilas Hospital in Bengaluru).",
+      "Step 4: Present your Thayi Card and Aadhaar at admission; all diagnostics, medicines, and delivery care are provided with zero charges.",
+      "Step 5: Utilize free 102/108 drop-back vehicle service to return home safely after discharge."
+    ],
+    "application_method": "Automatic entitlement upon admission at any government health facility / maternity hospital.",
+    "official_information_url": "https://nhm.gov.in/index1.php?lang=1&level=3&sublinkid=842&lid=309",
+    "official_application_url": "https://nhm.gov.in",
+    "official_helpline": "104 (Health Helpline) / 108 (Emergency Ambulance)",
+    "source_urls": [
+      "https://nhm.gov.in"
+    ],
+    "verification_status": "VERIFIED",
+    "last_verified_date": "2026-02-12"
+  },
+  {
+    "scheme_id": "SCHEME-NPY",
+    "scheme_name": "Nikshay Poshan Yojana (National TB Elimination Programme)",
+    "short_description": "Direct Benefit Transfer (DBT) of ₹500/month nutritional financial support directly into the bank accounts of all notified tuberculosis patients throughout treatment.",
+    "purpose": "Provide nutritional support to TB patients to improve treatment compliance, nutritional status, and clinical recovery outcomes.",
+    "geographical_coverage": "Pan-India (Administered via State TB Cells, including Karnataka State Tuberculosis Elimination Programme).",
+    "eligible_groups": [
+      "All tuberculosis patients (drug-sensitive and drug-resistant) notified in the official Nikshay national portal"
+    ],
+    "income_criteria": "Universal entitlement for all notified TB patients irrespective of socioeconomic status or income level.",
+    "beneficiary_requirements": [
+      "Notification of TB diagnosis on Nikshay portal by treating doctor / clinic",
+      "Active bank account linked to Aadhaar (for DBT transfers)",
+      "Ongoing compliance with anti-TB treatment regimen"
+    ],
+    "covered_treatments": [
+      "Pulmonary and Extra-Pulmonary Tuberculosis management",
+      "Drug-Resistant TB (MDR-TB / XDR-TB) courses",
+      "Free anti-TB medications (DOTS) provided alongside DBT payments"
+    ],
+    "benefits": "₹500 per month credited directly to the beneficiary's bank account for each month of completed treatment, along with free diagnostic sputum tests and first-line/second-line TB drugs.",
+    "limitations_and_exclusions": "Financial support requires valid Nikshay registration and bank account details; payments stop once treatment is clinically completed or defaulted.",
+    "required_documents": [
+      "Aadhaar Card",
+      "Bank Account passbook copy (showing IFSC and Account Number) for Direct Benefit Transfer",
+      "Diagnostic report (CBNAAT / TrueNat / Sputum Microscopy) confirming TB"
+    ],
+    "eligibility_rules": {
+      "supported_states": ["All", "Karnataka"],
+      "supported_conditions": ["tuberculosis", "tb", "pulmonary"],
+      "income_limit_annual": null,
+      "requires_bpl_or_card": false,
+      "requires_ration_card": false,
+      "requires_cooperative_membership": false,
+      "requires_tb_notification": true,
+      "requires_rare_disease": false,
+      "requires_govt_referral_for_private": false
+    },
+    "application_steps": [
+      "Step 1: Undergo sputum or diagnostic testing at a Primary Health Centre, Designated Microscopy Centre, or private clinic.",
+      "Step 2: Ensure the clinic or TB Health Visitor (TBHV) enters your diagnosis on the national Nikshay portal (nikshay.in).",
+      "Step 3: Provide your Aadhaar number and active bank passbook details to the Nikshay coordinator.",
+      "Step 4: Receive free DOTS medication from the nearest government health center.",
+      "Step 5: Monthly cash transfer of ₹500 is credited directly to your bank account via PFMS until treatment completion."
+    ],
+    "application_method": "Registration on Nikshay portal via the treating healthcare facility or local Senior Treatment Supervisor (STS).",
+    "official_information_url": "https://tbcindia.gov.in",
+    "official_application_url": "https://nikshay.in",
+    "official_helpline": "1800-11-6666 (National TB Helpline)",
+    "source_urls": [
+      "https://tbcindia.gov.in",
+      "https://nikshay.in"
+    ],
+    "verification_status": "VERIFIED",
+    "last_verified_date": "2026-02-05"
+  },
+  {
+    "scheme_id": "SCHEME-YESHASVINI",
+    "scheme_name": "Revamped Yeshasvini Health Insurance Scheme (Karnataka)",
+    "short_description": "Cashless surgical health insurance up to ₹5 Lakhs per family per year for members of rural and urban cooperative societies in Karnataka.",
+    "purpose": "Provide affordable social health insurance protection against surgical hospitalization expenses to cooperative members, farmers, and weavers in Karnataka.",
+    "geographical_coverage": "Karnataka State only.",
+    "eligible_groups": [
+      "Members of registered rural and urban cooperative societies in Karnataka",
+      "Members of Primary Agricultural Credit Societies (PACS), milk producers' unions, and weavers' cooperatives",
+      "Spouse, children, and dependent parents of registered cooperative members"
+    ],
+    "income_criteria": "No specific income limit, but applicant must be an active registered member of a Karnataka cooperative society for at least 3 months.",
+    "beneficiary_requirements": [
+      "Valid membership in a registered Karnataka cooperative society",
+      "Yeshasvini beneficiary card issued for the active financial year",
+      "Aadhaar Card"
+    ],
+    "covered_treatments": [
+      "General surgery, abdominal and laparoscopic procedures",
+      "Cardiac surgeries (CABG, valve replacement, pediatric cardiac surgery)",
+      "Orthopedic joint surgeries and complex trauma management",
+      "Gynecological surgeries (hysterectomy, ovarian cyst removal)",
+      "Urology and pediatric surgical packages (over 1,650 listed surgical procedures)"
+    ],
+    "benefits": "Cashless surgical treatment coverage up to ₹5,00,000 per family per year in empaneled private and government network hospitals across Karnataka.",
+    "limitations_and_exclusions": "Medical admissions without surgical intervention, OPD treatments, cosmetic surgeries, and treatment at non-empaneled hospitals are excluded. Strictly limited to cooperative society members.",
+    "required_documents": [
+      "Yeshasvini Health Card / Enrolment Receipt",
+      "Cooperative Society Membership Certificate / Passbook",
+      "Aadhaar Card of the patient",
+      "Treating surgeon's diagnosis note and surgical recommendation"
+    ],
+    "eligibility_rules": {
+      "supported_states": ["Karnataka"],
+      "supported_conditions": ["surgery", "cardiac", "heart", "orthopedic", "gynecological", "urology", "general surgery"],
+      "income_limit_annual": null,
+      "requires_bpl_or_card": false,
+      "requires_ration_card": false,
+      "requires_cooperative_membership": true,
+      "requires_tb_notification": false,
+      "requires_rare_disease": false,
+      "requires_govt_referral_for_private": false
+    },
+    "application_steps": [
+      "Step 1: Enroll during the annual registration window at your local cooperative society, DCC Bank branch, or online portal.",
+      "Step 2: Pay the nominal subsidized annual membership premium (e.g., ₹500 for rural, ₹1,000 for urban families).",
+      "Step 3: Receive your Yeshasvini UHID / Health Card.",
+      "Step 4: When surgical intervention is advised, visit an empaneled network hospital (e.g., Jayadeva, Narayana Health City, etc.).",
+      "Step 5: The hospital Yeshasvini coordinator uploads surgical pre-authorization for cashless clearance from the trust."
+    ],
+    "application_method": "Enrolment through local cooperative society office / Karnataka Apex Bank / Seva Sindhu during enrolment drives.",
+    "official_information_url": "https://yeshasvini.karnataka.gov.in",
+    "official_application_url": "https://yeshasvini.karnataka.gov.in",
+    "official_helpline": "080-22220790 (Karnataka Cooperative Department)",
+    "source_urls": [
+      "https://yeshasvini.karnataka.gov.in"
+    ],
+    "verification_status": "VERIFIED",
+    "last_verified_date": "2026-02-25"
+  }
+]

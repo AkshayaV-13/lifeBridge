@@ -1,0 +1,349 @@
+[
+  {
+    "service_id": "FOOD-NFSA-PHH",
+    "name": "Priority Household (PHH) Ration Card Entitlement",
+    "record_type": "Entitlement / Ration Card",
+    "description": "National Food Security Act entitlement providing subsidized and free staple foodgrains (rice, wheat, coarse grains) to identified priority low-income families.",
+    "geographical_coverage": "Pan-India (Administered via State Food & Civil Supplies departments, including Karnataka Ahara).",
+    "eligible_groups": [
+      "Identified low-income and economically vulnerable households meeting state inclusion criteria",
+      "Families without permanent government salaried members or large agricultural land holdings"
+    ],
+    "eligibility_criteria": "Karnataka criteria: Annual family income must not exceed ₹1,20,000; family must not own a four-wheeler (except commercial livelihood vehicle), agricultural land beyond ceiling, or have domestic electricity consumption exceeding 150 units/month.",
+    "benefits_or_service": "5 kg of foodgrains (rice/wheat) per family member per month completely free of cost at authorized Fair Price Shops under PMGKAY.",
+    "application_or_service_type": "Public Distribution System Entitlement",
+    "required_documents": [
+      "Aadhaar Cards of all family members with biometric verification",
+      "Income Certificate issued by Revenue Authority (Tahsildar / Nada Kacheri RD number)",
+      "Proof of residence (electricity bill / water bill / gas connection receipt)",
+      "Passport size photographs of the head of the family"
+    ],
+    "application_steps": [
+      "Step 1: Check eligibility against state exclusion criteria (annual income under ₹1.2L, no four-wheeler).",
+      "Step 2: Apply online via the state food portal (ahara.kar.nic.in in Karnataka) or through Grama One / Bangalore One / Seva Sindhu centres.",
+      "Step 3: Food Inspector conducts field verification of residential and socioeconomic credentials.",
+      "Step 4: Once sanctioned, biometric E-KYC is completed and Priority Household ration card is printed.",
+      "Step 5: Lift monthly free foodgrains at the allotted local Fair Price Shop using Aadhaar e-PoS authentication."
+    ],
+    "official_information_url": "https://nfsa.gov.in",
+    "official_application_url": "https://ahara.kar.nic.in",
+    "official_service_locator_url": "https://ahara.kar.nic.in/status2/fps_details.aspx",
+    "official_contact": "1967 (National NFSA Helpline) / 1800-425-9333 (Karnataka Food Helpline)",
+    "source_urls": [
+      "https://nfsa.gov.in/portal/nfsa-act",
+      "https://ahara.kar.nic.in"
+    ],
+    "verification_status": "VERIFIED",
+    "last_verified_date": "2026-03-01"
+  },
+  {
+    "service_id": "FOOD-AAY",
+    "name": "Antyodaya Anna Yojana (AAY) - Poorest of the Poor Entitlement",
+    "record_type": "Entitlement / Ration Card",
+    "description": "Specialized food security protection ensuring that the poorest and most destitute households receive a guaranteed fixed monthly basket of essential foodgrains.",
+    "geographical_coverage": "Pan-India",
+    "eligible_groups": [
+      "Landless agricultural labourers, marginal farmers, rural artisans, and slum dwellers",
+      "Destitute widows, terminally ill persons, disabled persons, and persons aged 60+ with no societal or familial support",
+      "Tribal households in remote areas with extreme poverty"
+    ],
+    "eligibility_criteria": "Identified by Gram Sabha / Urban Local Bodies as falling in the poorest tier of Below Poverty Line households with no assured regular income.",
+    "benefits_or_service": "35 kg of foodgrains per household per month completely free of charge at Fair Price Shops.",
+    "application_or_service_type": "Special Destitute Food Entitlement",
+    "required_documents": [
+      "Aadhaar Cards of household members",
+      "Destitute / BPL verification certificate from local revenue authority / Gram Panchayat",
+      "Age / Disability proof or Widow pension certificate if claiming vulnerability category",
+      "Current residence certificate"
+    ],
+    "application_steps": [
+      "Step 1: Identification conducted through local Gram Sabha / Ward Committee survey.",
+      "Step 2: Submit AAY recommendation dossier to the Taluk Tahsildar / Food Shirastedar.",
+      "Step 3: Verification of indigent socioeconomic status by Taluk Food Inspector.",
+      "Step 4: Issue of distinctive Antyodaya Anna Yojana ration card.",
+      "Step 5: Draw 35 kg of free foodgrains monthly from the designated Fair Price Shop."
+    ],
+    "official_information_url": "https://nfsa.gov.in",
+    "official_application_url": "https://ahara.kar.nic.in",
+    "official_service_locator_url": "https://ahara.kar.nic.in/status2/fps_details.aspx",
+    "official_contact": "1967 (Toll-Free National Helpline)",
+    "source_urls": [
+      "https://dfpd.gov.in/pds-aay.htm",
+      "https://nfsa.gov.in"
+    ],
+    "verification_status": "VERIFIED",
+    "last_verified_date": "2026-02-28"
+  },
+  {
+    "service_id": "FOOD-ONORC",
+    "name": "One Nation One Ration Card (ONORC) - Ration Portability",
+    "record_type": "Service / Portability",
+    "description": "Interstate and intrastate digital portability enabling migrant workers and their families to lift subsidised or free foodgrains from any Fair Price Shop across India using their existing ration card.",
+    "geographical_coverage": "Pan-India (Nationwide portability active across all 36 States and Union Territories).",
+    "eligible_groups": [
+      "All active NFSA ration cardholders (PHH and AAY beneficiaries)",
+      "Migrant workers, laborers, construction workers, and families living away from their home district/state"
+    ],
+    "eligibility_criteria": "Beneficiary must hold an active NFSA ration card with Aadhaar seeded for at least one family member; treating Fair Price Shop must have an operational electronic Point of Sale (e-PoS) device.",
+    "benefits_or_service": "Full or partial monthly foodgrain quota can be lifted at any FPS across India. Allows split-entitlements where migrant worker draws their share in another state while family draws the rest in their home village.",
+    "application_or_service_type": "Portability Service (Zero Application Needed)",
+    "required_documents": [
+      "Existing active Ration Card (number or physical card)",
+      "Aadhaar Card of the family member lifting foodgrains (mandatory for e-PoS biometric authentication)"
+    ],
+    "application_steps": [
+      "Step 1: No new registration or application is required. Portability is automatic for all seeded ration cards.",
+      "Step 2: Visit any nearby Fair Price Shop in your current town or state (locate using Mera Ration app).",
+      "Step 3: Provide your home state ration card number or Aadhaar number to the FPS dealer.",
+      "Step 4: Complete biometric fingerprint or IRIS authentication on the e-PoS device.",
+      "Step 5: Collect your monthly entitlement of foodgrains as recorded in the central IMPDS database."
+    ],
+    "official_information_url": "https://nfsa.gov.in/portal/onorc",
+    "official_application_url": "https://nfsa.gov.in",
+    "official_service_locator_url": "https://nfsa.gov.in/portal/onorc",
+    "official_contact": "14445 (Dedicated ONORC National Toll-Free Helpline)",
+    "source_urls": [
+      "https://nfsa.gov.in/portal/onorc",
+      "https://dfpd.gov.in"
+    ],
+    "verification_status": "VERIFIED",
+    "last_verified_date": "2026-03-02"
+  },
+  {
+    "service_id": "FOOD-KA-NEW-RC",
+    "name": "Karnataka Ahara - Application for New Ration Card (BPL / APL)",
+    "record_type": "Application Service",
+    "description": "Online government service provided by Karnataka Food, Civil Supplies and Consumer Affairs Department for issuing new Priority (BPL) or Non-Priority (APL) ration cards.",
+    "geographical_coverage": "Karnataka State residents only.",
+    "eligible_groups": [
+      "Karnataka resident families who do not currently possess an active ration card in any state",
+      "Newly married couples establishing an independent household in Karnataka"
+    ],
+    "eligibility_criteria": "For BPL: Annual family income under ₹1,20,000; no 4-wheeler; power consumption under 150 units/month. For APL: Any Karnataka resident family regardless of income, subject to valid Aadhaar authentication.",
+    "benefits_or_service": "Issuance of computerized electronic ration card (e-Ration Card) recognized for foodgrains distribution, healthcare scheme identification (Arogya Karnataka), and official government identity.",
+    "application_or_service_type": "State Citizen Portal Service",
+    "required_documents": [
+      "Aadhaar cards of all family members to be enrolled",
+      "Income & Caste Certificate with 15-digit RD Number (Revenue Dept) for BPL applicants",
+      "Proof of Karnataka residence (Electricity bill / Rental agreement / Tax receipt)",
+      "Surrender / Deletion certificate if previously included in parents' ration card"
+    ],
+    "application_steps": [
+      "Step 1: Check that family members' Aadhaar details are updated with active mobile numbers for OTP verification.",
+      "Step 2: Visit ahara.kar.nic.in -> 'E-Services' -> 'New Ration Card' (service is also accessible at Bangalore One / Grama One / Seva Sindhu centres).",
+      "Step 3: Select Card Type (Priority BPL or Non-Priority APL).",
+      "Step 4: Authenticate family head and all members via Aadhaar OTP.",
+      "Step 5: Enter Revenue Department RD certificate number for automated income verification.",
+      "Step 6: Select your neighborhood Fair Price Shop and submit; download the e-Ration card acknowledgment slip."
+    ],
+    "official_information_url": "https://ahara.kar.nic.in",
+    "official_application_url": "https://ahara.kar.nic.in/e-services.aspx",
+    "official_service_locator_url": "https://ahara.kar.nic.in/status2/fps_details.aspx",
+    "official_contact": "080-22244248 / 1800-425-9333",
+    "source_urls": [
+      "https://ahara.kar.nic.in",
+      "https://sevasindhu.karnataka.gov.in"
+    ],
+    "verification_status": "VERIFIED",
+    "last_verified_date": "2026-02-25"
+  },
+  {
+    "service_id": "FOOD-KA-UPDATE-RC",
+    "name": "Karnataka Ahara - Ration Card Correction & Member Modification",
+    "record_type": "Modification Service",
+    "description": "Public service to add new family members (children, new spouse), delete members (due to marriage or demise), correct spelling of names, change residential address, or transfer Fair Price Shop.",
+    "geographical_coverage": "Karnataka State",
+    "eligible_groups": [
+      "Existing active Karnataka ration cardholders needing demographic or family member updates"
+    ],
+    "eligibility_criteria": "Must possess a valid active Karnataka ration card number; new members must possess Aadhaar cards.",
+    "benefits_or_service": "Maintains accurate family member count for monthly foodgrain quota and ensures seamless linkage with welfare and scholarship portals.",
+    "application_or_service_type": "State Citizen Modification Service",
+    "required_documents": [
+      "Existing Ration Card",
+      "For addition: Child's Birth Certificate and Aadhaar Card (or marriage certificate for spouse)",
+      "For deletion: Death Certificate (in case of demise) or Marriage Certificate / Transfer request",
+      "For address change: New residential electricity bill / address proof"
+    ],
+    "application_steps": [
+      "Step 1: Visit ahara.kar.nic.in -> 'E-Services' -> 'E-Ration Card Modification' or visit a nearby Bangalore One / Grama One centre.",
+      "Step 2: Enter your Ration Card number and authenticate the family head via Aadhaar OTP.",
+      "Step 3: Select the required service: 'Add Member', 'Delete Member', or 'Address Change'.",
+      "Step 4: Enter details and upload necessary verification certificates (e.g. Birth certificate for new child).",
+      "Step 5: Food Inspector reviews the application digitally.",
+      "Step 6: Download the updated e-Ration Card with modified member roster."
+    ],
+    "official_information_url": "https://ahara.kar.nic.in",
+    "official_application_url": "https://ahara.kar.nic.in/e-services.aspx",
+    "official_service_locator_url": "https://ahara.kar.nic.in/status2/fps_details.aspx",
+    "official_contact": "1800-425-9333 (Karnataka Food Helpline)",
+    "source_urls": [
+      "https://ahara.kar.nic.in"
+    ],
+    "verification_status": "VERIFIED",
+    "last_verified_date": "2026-02-20"
+  },
+  {
+    "service_id": "FOOD-KA-ANNA-BHAGYA",
+    "name": "Karnataka Anna Bhagya Scheme (Food & Cash DBT Entitlement)",
+    "record_type": "State Welfare Scheme",
+    "description": "Flagship Karnataka state food security guarantee providing 5 kg free rice from the central pool plus direct monthly cash benefit transfer (DBT) at ₹34 per kg for an additional 5 kg of rice per beneficiary.",
+    "geographical_coverage": "Karnataka State only.",
+    "eligible_groups": [
+      "Holders of valid Karnataka BPL (Priority Household - PHH) ration cards",
+      "Holders of valid Karnataka Antyodaya Anna Yojana (AAY) ration cards"
+    ],
+    "eligibility_criteria": "Active Karnataka BPL/AAY ration card; the head of the family's bank account must be actively linked and seeded with Aadhaar for Direct Benefit Transfer (National Payments Corporation of India - NPCI mapping).",
+    "benefits_or_service": "5 kg free rice per person per month distributed at Fair Price Shops PLUS ₹170 cash per person per month (equivalent to 5 kg @ ₹34/kg) credited directly to the woman head of household's bank account.",
+    "application_or_service_type": "Direct Benefit Transfer Welfare Scheme",
+    "required_documents": [
+      "Active Karnataka BPL / AAY Ration Card",
+      "Aadhaar Card of the woman head of the family",
+      "Bank Passbook showing NPCI-Aadhaar seeding status"
+    ],
+    "application_steps": [
+      "Step 1: Automatic entitlement for all active Karnataka BPL and AAY ration cardholders — no separate application is needed.",
+      "Step 2: Ensure the head of the family's bank account is linked to Aadhaar by visiting their bank branch or checking on the NPCI portal.",
+      "Step 3: Track monthly DBT credit status on ahara.kar.nic.in under 'E-Services' -> 'DBT Status' by entering the Ration Card number.",
+      "Step 4: Receive monthly SMS alerts on funds credited to your bank account."
+    ],
+    "official_information_url": "https://ahara.kar.nic.in",
+    "official_application_url": "https://ahara.kar.nic.in/status2/dbt_status.aspx",
+    "official_service_locator_url": "https://ahara.kar.nic.in/status2/fps_details.aspx",
+    "official_contact": "1902 / 1800-425-9333",
+    "source_urls": [
+      "https://ahara.kar.nic.in"
+    ],
+    "verification_status": "VERIFIED",
+    "last_verified_date": "2026-03-01"
+  },
+  {
+    "service_id": "FOOD-KA-FPS-LOCATOR",
+    "name": "Karnataka Fair Price Shop (Ration Shop) & Taluk Office Locator",
+    "record_type": "Service Locator",
+    "description": "Public search tool enabling residents to identify their assigned Fair Price Shop (FPS), authorized dealer name, shop address, contact details, and taluk food supply office.",
+    "geographical_coverage": "Karnataka State (Covers all 31 districts and taluks including Bengaluru Urban).",
+    "eligible_groups": [
+      "All ration cardholders and general public seeking their designated ration shop or grievance officer"
+    ],
+    "eligibility_criteria": "Open public service; requires district, taluk, and ward/village selection or active ration card number.",
+    "benefits_or_service": "Displays dealer license name, shop registration number, exact street location, attached beneficiaries count, and contact phone numbers.",
+    "application_or_service_type": "Public Directory Service",
+    "required_documents": [
+      "Ration Card Number (optional, for direct lookup) or residential locality details"
+    ],
+    "application_steps": [
+      "Step 1: Open ahara.kar.nic.in -> 'E-Services' -> 'Fair Price Shop Details'.",
+      "Step 2: Select your District (e.g., Bengaluru Urban), Taluk (e.g., Bengaluru South), and Ward/Area.",
+      "Step 3: View the list of authorized Fair Price Shops with dealer names and addresses.",
+      "Step 4: Visit the allotted shop with your ration card during working hours (typically 8 AM - 12 PM and 4 PM - 8 PM)."
+    ],
+    "official_information_url": "https://ahara.kar.nic.in/status2/fps_details.aspx",
+    "official_application_url": "https://ahara.kar.nic.in/status2/fps_details.aspx",
+    "official_service_locator_url": "https://ahara.kar.nic.in/status2/fps_details.aspx",
+    "official_contact": "1800-425-9333",
+    "source_urls": [
+      "https://ahara.kar.nic.in/status2/fps_details.aspx"
+    ],
+    "verification_status": "VERIFIED",
+    "last_verified_date": "2026-02-18"
+  },
+  {
+    "service_id": "FOOD-RC-STATUS-KA",
+    "name": "Ration Card Application & Eligibility Status Tracking",
+    "record_type": "Online Verification Service",
+    "description": "Real-time verification service allowing applicants to check the progress of new ration card applications, status of Food Inspector field inspections, and card validity.",
+    "geographical_coverage": "Karnataka State",
+    "eligible_groups": [
+      "Any citizen who has submitted a new ration card application or member modification request in Karnataka"
+    ],
+    "eligibility_criteria": "Requires valid acknowledgment number / application number generated during Seva Sindhu or Ahara submission.",
+    "benefits_or_service": "Transparent tracking of application stage: Pending verification, Inspector approved, Card printed, or Dispatched to Bangalore One / Grama One centre.",
+    "application_or_service_type": "Citizen Application Tracking",
+    "required_documents": [
+      "Application Acknowledgment Number (e.g., RC2026...)",
+      "Registered Mobile Number for OTP confirmation"
+    ],
+    "application_steps": [
+      "Step 1: Visit ahara.kar.nic.in -> 'E-Services' -> 'E-Status' -> 'Status of New/Modified Ration Card'.",
+      "Step 2: Choose verification method: 'With Acknowledgment Number' or 'Without Acknowledgment Number (via Aadhaar)'.",
+      "Step 3: Enter the required details and captcha.",
+      "Step 4: View the real-time stage of the file, officer remarks, and estimated completion date."
+    ],
+    "official_information_url": "https://ahara.kar.nic.in/status2/",
+    "official_application_url": "https://ahara.kar.nic.in/status2/",
+    "official_service_locator_url": "https://ahara.kar.nic.in/status2/",
+    "official_contact": "1800-425-9333",
+    "source_urls": [
+      "https://ahara.kar.nic.in"
+    ],
+    "verification_status": "VERIFIED",
+    "last_verified_date": "2026-02-22"
+  },
+  {
+    "service_id": "FOOD-PMGKAY",
+    "name": "Pradhan Mantri Garib Kalyan Anna Yojana (PMGKAY)",
+    "record_type": "National Food Security Scheme",
+    "description": "Central government scheme providing 100% free foodgrains to approximately 81.35 crore NFSA beneficiaries (Priority Households and Antyodaya Anna Yojana) nationwide for five years from 2024 to 2028.",
+    "geographical_coverage": "Pan-India",
+    "eligible_groups": [
+      "All active NFSA Priority Household (PHH) ration cardholders",
+      "All active Antyodaya Anna Yojana (AAY) cardholders"
+    ],
+    "eligibility_criteria": "Valid NFSA ration card with Aadhaar seeding. Completely free distribution — no payment of central issue prices (₹3/kg rice, ₹2/kg wheat) is required.",
+    "benefits_or_service": "100% free foodgrains: 5 kg per person per month for PHH cards, and 35 kg per family per month for AAY cards.",
+    "application_or_service_type": "Central Food Security Distribution",
+    "required_documents": [
+      "Active NFSA Ration Card",
+      "Aadhaar Card for biometric authentication on e-PoS device"
+    ],
+    "application_steps": [
+      "Step 1: Automatic benefit for existing NFSA cardholders; no separate registration is needed.",
+      "Step 2: Visit your assigned Fair Price Shop during distribution dates.",
+      "Step 3: Authenticate identity on the e-PoS device using fingerprint or iris scan.",
+      "Step 4: Collect free foodgrains and verify zero amount is printed on the electronic receipt."
+    ],
+    "official_information_url": "https://dfpd.gov.in/pds-pmgkay.htm",
+    "official_application_url": "https://nfsa.gov.in",
+    "official_service_locator_url": "https://nfsa.gov.in",
+    "official_contact": "1967 (National NFSA Helpline)",
+    "source_urls": [
+      "https://dfpd.gov.in",
+      "https://nfsa.gov.in"
+    ],
+    "verification_status": "VERIFIED",
+    "last_verified_date": "2026-03-01"
+  },
+  {
+    "service_id": "FOOD-MERA-RATION",
+    "name": "Mera Ration Mobile App & National Grievance Redressal",
+    "record_type": "Digital Portal & Grievance Service",
+    "description": "Official mobile app developed by the Department of Food & Public Distribution (NIC) to empower NFSA beneficiaries to view entitlements, locate nearby ration shops, check ONORC status, and register grievances.",
+    "geographical_coverage": "Pan-India (Available in 14 languages including Kannada, Hindi, and English).",
+    "eligible_groups": [
+      "All NFSA ration cardholders, particularly migrant workers and low-income families"
+    ],
+    "eligibility_criteria": "Active ration card number or Aadhaar number of any registered family member.",
+    "benefits_or_service": "Interactive GPS map to find nearest Fair Price Shop, view monthly entitlement quota, check recent 6-month ration transactions, verify Aadhaar seeding, and submit grievances.",
+    "application_or_service_type": "Mobile Citizen Service",
+    "required_documents": [
+      "Ration Card Number or Aadhaar Number"
+    ],
+    "application_steps": [
+      "Step 1: Download 'Mera Ration' official app from Google Play Store (developed by National Informatics Centre - NIC).",
+      "Step 2: Enter your 12-digit Ration Card number or Aadhaar number to view your entitlement profile.",
+      "Step 3: Click 'Nearby Ration Shops' to see exact distance and direction to authorized FPS in your current GPS vicinity.",
+      "Step 4: Use 'Grievance' tab or dial 1967 if any shop dealer overcharges, refuses foodgrains, or operates irregularly."
+    ],
+    "official_information_url": "https://nfsa.gov.in",
+    "official_application_url": "https://play.google.com/store/apps/details?id=com.nic.mha.citizen",
+    "official_service_locator_url": "https://nfsa.gov.in/portal/onorc",
+    "official_contact": "1967 (National Helpline) / 1800-425-9333 (Karnataka State Helpline)",
+    "source_urls": [
+      "https://nfsa.gov.in",
+      "https://dfpd.gov.in"
+    ],
+    "verification_status": "VERIFIED",
+    "last_verified_date": "2026-02-28"
+  }
+]
